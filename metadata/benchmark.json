@@ -1,5 +1,5 @@
 {
-  "benchmark_name": "UrbanTraffic-Bench",
+  "benchmark_name": "UrbanAgent-Bench",
   "benchmark_name_zh": "城市交通业务数据分析评测集",
   "release_version": "2.1.0-candidate",
   "benchmark_version": "v2_40_30_30",

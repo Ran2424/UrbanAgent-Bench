@@ -2,7 +2,7 @@
 
 ## 上海多方式交通数据
 
-UrbanTraffic-Bench 使用 2026 年 8 月 24 日的上海多方式交通观测快照。数据覆盖地铁、公交、出租车、网约车和共享单车，统一为小时尺度的查询环境。
+UrbanAgent-Bench 使用 2026 年 8 月 24 日的上海多方式交通观测快照。数据覆盖地铁、公交、出租车、网约车和共享单车，统一为小时尺度的查询环境。
 
 - 地铁数据按线路、站点和小时记录进出站客流。
 - 公交数据按线路和小时记录乘车量。
@@ -24,4 +24,4 @@ UrbanTraffic-Bench 使用 2026 年 8 月 24 日的上海多方式交通观测快
 
 ## 历史公开数据归档
 
-`archive/open_source_sql/` 保留从 Spider 和 BIRD train 中整理的 27 个交通相关数据库和 1,696 道题。该目录是原 TrafficSQL-Bench 的历史资料，不属于 UrbanTraffic-Bench 当前评测集。使用或再发布其中的数据时，仍需遵守原数据集的许可与引用要求。
+`archive/open_source_sql/` 保留从 Spider 和 BIRD train 中整理的 27 个交通相关数据库和 1,696 道题。该目录是原 TrafficSQL-Bench 的历史资料，不属于 UrbanAgent-Bench 当前评测集。使用或再发布其中的数据时，仍需遵守原数据集的许可与引用要求。

@@ -14,4 +14,4 @@
 - 温度、Token 限制、API 超时、SQL 超时、并发数和重试次数；
 - 每题的最终 SQL、执行状态、判定原因和耗时。
 
-当前论文数据包见 [`baselines/four_models_v2/`](../baselines/four_models_v2/)。历史公开数据已归档，不进入 UrbanTraffic-Bench 的评分流程。
+当前论文数据包见 [`baselines/four_models_v2/`](../baselines/four_models_v2/)。历史公开数据已归档，不进入 UrbanAgent-Bench 的评分流程。

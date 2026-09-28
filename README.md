@@ -1,6 +1,6 @@
-# UrbanTraffic-Bench
+# UrbanAgent-Bench
 
-UrbanTraffic-Bench 是一个城市交通业务数据分析评测集。它以 2026 年 8 月 24 日上海五种交通方式数据为评测环境，包含 100 道交通业务问题、参考 SQL、参考结果和评分规则。
+UrbanAgent-Bench 是一个城市交通业务数据分析评测集。它以 2026 年 8 月 24 日上海五种交通方式数据为评测环境，包含 100 道交通业务问题、参考 SQL、参考结果和评分规则。
 
 评测对象是模型能否交付符合业务口径的分析结果，SQL 是完成任务的实现方式。参评查询与参考查询的写法可以不同，只要执行结果满足题目的字段、类型、数值和行集合契约，即可判定为正确。
 
@@ -30,7 +30,7 @@ UrbanTraffic-Bench 是一个城市交通业务数据分析评测集。它以 202
 ## 仓库结构
 
 ```text
-UrbanTraffic-Bench/
+UrbanAgent-Bench/
 ├── tasks/              # 100 道任务及分类视图
 ├── database_files/     # 上海评测数据库压缩包
 ├── schemas/            # 数据库结构与字段口径
@@ -80,4 +80,4 @@ git lfs pull
 
 ## 历史归档
 
-原 TrafficSQL-Bench 中基于 Spider 和 BIRD 的 27 个公开数据库及 1,696 道题已移入 [`archive/open_source_sql/`](archive/open_source_sql/)。它们仅用于历史追溯，不属于 UrbanTraffic-Bench 的当前题库，不参与正确率或综合指标计算。
+原 TrafficSQL-Bench 中基于 Spider 和 BIRD 的 27 个公开数据库及 1,696 道题已移入 [`archive/open_source_sql/`](archive/open_source_sql/)。它们仅用于历史追溯，不属于 UrbanAgent-Bench 的当前题库，不参与正确率或综合指标计算。

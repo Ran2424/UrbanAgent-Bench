@@ -1,6 +1,6 @@
 {
   "benchmark_version": "v2_40_30_30",
-  "benchmark_name": "UrbanTraffic-Bench",
+  "benchmark_name": "UrbanAgent-Bench",
   "database_uid": "shanghai_multimodal_simplified_v1__20260824",
   "task_count": 100,
   "categories": {

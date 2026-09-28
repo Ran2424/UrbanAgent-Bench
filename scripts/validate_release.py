@@ -1,4 +1,4 @@
-"""Validate the active UrbanTraffic-Bench release without modifying files."""
+"""Validate the active UrbanAgent-Bench release without modifying files."""
 
 from collections import Counter
 import hashlib
@@ -120,7 +120,7 @@ def validate_archive():
 
 def main():
     benchmark = read_json(ROOT / "metadata/benchmark.json")
-    assert benchmark["benchmark_name"] == "UrbanTraffic-Bench"
+    assert benchmark["benchmark_name"] == "UrbanAgent-Bench"
     assert benchmark["task_count"] == 100
     assert benchmark["database_count"] == 1
     print(
