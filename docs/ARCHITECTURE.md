@@ -10,18 +10,19 @@ UrbanAgent-Bench 围绕一个上海多方式交通数据库组织 100 道交通�
 
 | 路径 | 作用 |
 |---|---|
-| `tasks/tasks.jsonl` | 100 道任务的唯一结构化主文件 |
-| `tasks/by_category/` | 按单方式、多方式和空间关联导出的任务视图 |
-| `题库.md` | 用于人工审阅的题库清单 |
-| `database_files/` | 上海精简评测库压缩包 |
-| `schemas/` | 表结构、字段口径和数据规模 |
-| `knowledge/` | 题库公共时间、缺失值、Top-K 和分类口径 |
-| `sql/` | 100 份逐题参考 SQL |
-| `results/` | 100 份参考执行结果与 Top-K 边界兼容数据 |
-| `baselines/four_models_v2/` | 当前论文使用的四模型、两种方法评测记录 |
-| `metadata/` | 版本、校验和审核状态 |
+| `benchmark/tasks/tasks.jsonl` | 100 道任务的唯一结构化主文件 |
+| `benchmark/tasks/by_category/` | 按单方式、多方式和空间关联导出的任务视图 |
+| `benchmark/题库.md` | 用于人工审阅的题库清单 |
+| `benchmark/database_files/` | 上海精简评测库压缩包 |
+| `benchmark/schemas/` | 表结构、字段口径和数据规模 |
+| `benchmark/knowledge/` | 题库公共时间、缺失值、Top-K 和分类口径 |
+| `benchmark/sql/` | 100 份逐题参考 SQL |
+| `benchmark/results/` | 100 份参考执行结果与 Top-K 边界兼容数据 |
+| `benchmark/mappings/` | 历史题号映射 |
+| `evaluation/baselines/four_models_v2/` | 当前论文使用的四模型、两种方法评测记录 |
+| `benchmark/metadata/` | 版本、校验和审核状态 |
 
-`tasks/tasks.jsonl` 是题目主数据。CSV、分类 JSONL、逐题 SQL 和参考结果必须与主文件保持一致，不应作为独立版本维护。
+`benchmark/tasks/tasks.jsonl` 是题目主数据。CSV、分类 JSONL、逐题 SQL 和参考结果必须与主文件保持一致，不应作为独立版本维护。
 
 ## 归档内容
 

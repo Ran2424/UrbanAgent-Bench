@@ -2,4 +2,4 @@
 __pycache__/
 *.pyc
 .pytest_cache/
-database_files/shanghai_text2sql_simplified_v1.db
+benchmark/database_files/shanghai_text2sql_simplified_v1.db

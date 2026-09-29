@@ -34,9 +34,9 @@ def validate_refs(tasks):
 
 
 def validate_tasks():
-    tasks_path = ROOT / "tasks/tasks.jsonl"
+    tasks_path = ROOT / "benchmark/tasks/tasks.jsonl"
     tasks = read_jsonl(tasks_path)
-    summary = read_json(ROOT / "metadata/benchmark_summary.json")
+    summary = read_json(ROOT / "benchmark/metadata/benchmark_summary.json")
     expected_ids = (
         [f"S{index:02d}" for index in range(1, 41)]
         + [f"X{index:02d}" for index in range(1, 31)]
@@ -58,12 +58,12 @@ def validate_tasks():
     assert all(task["supplementary_notes"] for task in tasks)
     assert all(task["output_contract"]["columns"] for task in tasks)
     assert all(task["review_status"] == "pending_two_person_review" for task in tasks)
-    assert sha256(tasks_path) == "9a6100b41a016daa8adfdd61d131d1c1679e79072fe7cb5af94fd5fa4ae27ebd"
+    assert sha256(tasks_path) == "e6723f821e369d95f5646b8e57c3fedf40934f8cbd828de63a09c95261513d3c"
     validate_refs(tasks)
 
     for task in tasks:
         result_path = ROOT / task["result_ref"]
-        sql_path = ROOT / "sql" / f"{task['task_id']}.sql"
+        sql_path = ROOT / "benchmark/sql" / f"{task['task_id']}.sql"
         assert sql_path.is_file(), f"Missing SQL: {task['task_id']}"
         assert sql_path.read_text(encoding="utf-8").strip() == task["gold_sql"].strip()
         result = read_json(result_path)
@@ -80,7 +80,7 @@ def validate_tasks():
 
 
 def validate_database():
-    database = read_json(ROOT / "metadata/database.json")
+    database = read_json(ROOT / "benchmark/metadata/database.json")
     archive = ROOT / database["archive_ref"]
     assert archive.stat().st_size == database["archive_size_bytes"]
     assert sha256(archive) == database["archive_sha256"]
@@ -92,7 +92,7 @@ def validate_database():
 
 
 def validate_baseline():
-    baseline_path = ROOT / "baselines/four_models_v2/complete_evaluation_data.json"
+    baseline_path = ROOT / "evaluation/baselines/four_models_v2/complete_evaluation_data.json"
     baseline = read_json(baseline_path)
     scope = baseline["scope"]
     assert scope["task_count"] == 100
@@ -119,7 +119,7 @@ def validate_archive():
 
 
 def main():
-    benchmark = read_json(ROOT / "metadata/benchmark.json")
+    benchmark = read_json(ROOT / "benchmark/metadata/benchmark.json")
     assert benchmark["benchmark_name"] == "UrbanAgent-Bench"
     assert benchmark["task_count"] == 100
     assert benchmark["database_count"] == 1

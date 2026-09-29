@@ -26,7 +26,7 @@
   "structured_output_contracts": 100,
   "empty_tasks": [],
   "database_sha256": "f7ca83427740711cc54993085a2797dabdd17d4ce758b5305d11e4434c5aacdf",
-  "tasks_sha256": "9a6100b41a016daa8adfdd61d131d1c1679e79072fe7cb5af94fd5fa4ae27ebd",
+  "tasks_sha256": "e6723f821e369d95f5646b8e57c3fedf40934f8cbd828de63a09c95261513d3c",
   "review_status": "pending_two_person_review",
   "structured_supplementary_notes": 100
 }

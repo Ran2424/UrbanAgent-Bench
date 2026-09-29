@@ -9,6 +9,8 @@
 - `report.md`：按任务类型和难度汇总的正确率。
 - `tables.md`：论文表格所用的正确率、任务响应时间和最终 SQL 执行时间。
 
+`complete_evaluation_data.json` 中的 `source_integrity.tasks_sha256` 记录原始实验任务文件的哈希；当前目录整理后的任务文件哈希见 `benchmark/metadata/benchmark_summary.json`。
+
 ## 解释边界
 
 该数据包在历史 100 题最终记录上，使用 v2.1 复测结果覆盖 X13、X14、X15、X17 和 X20 五道多方式难题。其余 95 题沿用历史最终记录。因此：

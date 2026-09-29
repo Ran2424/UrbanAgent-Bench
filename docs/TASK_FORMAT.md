@@ -1,6 +1,6 @@
 # 任务格式
 
-`tasks/tasks.jsonl` 是 UrbanAgent-Bench 的任务主文件，每行对应一道交通业务问题。
+`benchmark/tasks/tasks.jsonl` 是 UrbanAgent-Bench 的任务主文件，每行对应一道交通业务问题。
 
 ## 主要字段
 
@@ -31,4 +31,4 @@
 
 `output_contract.columns` 逐列规定字段名、数据类型和可空性，可选项包括小数位数、枚举值和固定 Top-K 规则。`evaluation_policy` 规定评分器如何比较参评结果与参考结果。完整 JSON Schema 见 [`docs/task.schema.json`](task.schema.json)。
 
-CSV 和 `tasks/by_category/` 是从主文件导出的视图，不单独维护版本。
+CSV 和 `benchmark/tasks/by_category/` 是从主文件导出的视图，不单独维护版本。

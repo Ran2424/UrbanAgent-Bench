@@ -25,24 +25,27 @@ UrbanAgent-Bench 是一个城市交通业务数据分析评测集。它以 2026 
 - `output_contract`：输出字段、数据类型、精度和 Top-K 规则；
 - `gold_sql` 与 `result_ref`：可重执行的参考查询和参考结果。
 
-题目详细说明见 [题库](题库.md)，结构化主文件为 [`tasks/tasks.jsonl`](tasks/tasks.jsonl)。
+题目详细说明见 [题库](benchmark/题库.md)，结构化主文件为 [`benchmark/tasks/tasks.jsonl`](benchmark/tasks/tasks.jsonl)。
 
 ## 仓库结构
 
 ```text
 UrbanAgent-Bench/
-├── tasks/              # 100 道任务及分类视图
-├── database_files/     # 上海评测数据库压缩包
-├── schemas/            # 数据库结构与字段口径
-├── knowledge/          # 评测公共口径
-├── sql/                # 逐题参考 SQL
-├── results/            # 逐题参考结果
-├── baselines/          # 论文使用的四模型系统比较记录
-├── evaluation/         # 评分与结果提交约定
-├── docs/               # 结构、数据、任务格式和评测协议
-├── metadata/           # 版本、校验和审核状态
-├── archive/            # 不参与当前评测的历史资料
-└── scripts/            # 发布校验脚本
+├── benchmark/           # 数据、任务、参考 SQL、结果与版本元数据
+│   ├── database_files/  # 上海评测数据库压缩包
+│   ├── tasks/           # 100 道任务及分类视图
+│   ├── schemas/         # 数据库结构与字段口径
+│   ├── knowledge/       # 评测公共口径
+│   ├── sql/             # 逐题参考 SQL
+│   ├── results/         # 逐题参考结果
+│   ├── mappings/        # 历史题号映射
+│   ├── metadata/        # 版本、校验和审核状态
+│   └── 题库.md           # 人工审阅清单
+├── evaluation/          # 评分约定与四模型系统比较记录
+│   └── baselines/
+├── docs/                # 结构、数据、任务格式和评测协议
+├── scripts/             # 发布校验脚本
+└── archive/             # 不参与当前评测的历史资料
 ```
 
 ## 快速检查
@@ -51,7 +54,7 @@ UrbanAgent-Bench/
 
 ```bash
 git lfs pull
-7z x database_files/archives/shanghai_multimodal__20260824.7z -odatabase_files
+7z x benchmark/database_files/archives/shanghai_multimodal__20260824.7z -obenchmark/database_files
 ```
 
 执行发布校验：
@@ -69,7 +72,7 @@ git lfs pull
 - **Text2SQL**：模型获取题目、数据说明和完整表结构，直接生成 SQLite 查询；
 - **TransportX Agent**：Agent 围绕交通业务问题读取数据资料、执行查询、根据反馈调整并交付可复核结果。
 
-四种基础模型的 800 条题目级记录位于 [`baselines/four_models_v2/`](baselines/four_models_v2/)。该数据包在历史全量记录上更新了 5 道多方式题，用于当前论文的正确率分析；它不是在单一提示词版本上完成的 100 题全量重测。
+四种基础模型的 800 条题目级记录位于 [`evaluation/baselines/four_models_v2/`](evaluation/baselines/four_models_v2/)。该数据包在历史全量记录上更新了 5 道多方式题，用于当前论文的正确率分析；它不是在单一提示词版本上完成的 100 题全量重测。
 
 ## 发布状态与边界
 

@@ -221,9 +221,9 @@
       "legacy_scenario_zh": "地铁",
       "legacy_difficulty": "简",
       "change_type": "修订",
-      "schema_ref": "schemas/simplified_v1.json",
-      "schema_markdown_ref": "schemas/simplified_v1.md",
-      "knowledge_ref": "knowledge/benchmark_v2.md",
+      "schema_ref": "benchmark/schemas/simplified_v1.json",
+      "schema_markdown_ref": "benchmark/schemas/simplified_v1.md",
+      "knowledge_ref": "benchmark/knowledge/benchmark_v2.md",
       "execution_status": "ok",
       "result_mode": "full_rows",
       "result_columns": [
@@ -231,7 +231,7 @@
         "exit_total"
       ],
       "result_row_count": 1,
-      "result_ref": "results/S01.json",
+      "result_ref": "benchmark/results/S01.json",
       "evaluation_policy": {
         "allow_extra_columns": true,
         "allow_column_permutation": true,
@@ -314,9 +314,9 @@
       "legacy_scenario_zh": "地铁",
       "legacy_difficulty": "简",
       "change_type": "修订",
-      "schema_ref": "schemas/simplified_v1.json",
-      "schema_markdown_ref": "schemas/simplified_v1.md",
-      "knowledge_ref": "knowledge/benchmark_v2.md",
+      "schema_ref": "benchmark/schemas/simplified_v1.json",
+      "schema_markdown_ref": "benchmark/schemas/simplified_v1.md",
+      "knowledge_ref": "benchmark/knowledge/benchmark_v2.md",
       "execution_status": "ok",
       "result_mode": "full_rows",
       "result_columns": [
@@ -325,7 +325,7 @@
         "exit_total"
       ],
       "result_row_count": 23,
-      "result_ref": "results/S02.json",
+      "result_ref": "benchmark/results/S02.json",
       "evaluation_policy": {
         "allow_extra_columns": true,
         "allow_column_permutation": true,
@@ -420,9 +420,9 @@
       "legacy_scenario_zh": "地铁",
       "legacy_difficulty": "中",
       "change_type": "修订",
-      "schema_ref": "schemas/simplified_v1.json",
-      "schema_markdown_ref": "schemas/simplified_v1.md",
-      "knowledge_ref": "knowledge/benchmark_v2.md",
+      "schema_ref": "benchmark/schemas/simplified_v1.json",
+      "schema_markdown_ref": "benchmark/schemas/simplified_v1.md",
+      "knowledge_ref": "benchmark/knowledge/benchmark_v2.md",
       "execution_status": "ok",
       "result_mode": "full_rows",
       "result_columns": [
@@ -431,7 +431,7 @@
         "entry_total"
       ],
       "result_row_count": 10,
-      "result_ref": "results/S03.json",
+      "result_ref": "benchmark/results/S03.json",
       "evaluation_policy": {
         "allow_extra_columns": true,
         "allow_column_permutation": true,
@@ -530,9 +530,9 @@
       "legacy_scenario_zh": "地铁",
       "legacy_difficulty": "中",
       "change_type": "修订",
-      "schema_ref": "schemas/simplified_v1.json",
-      "schema_markdown_ref": "schemas/simplified_v1.md",
-      "knowledge_ref": "knowledge/benchmark_v2.md",
+      "schema_ref": "benchmark/schemas/simplified_v1.json",
+      "schema_markdown_ref": "benchmark/schemas/simplified_v1.md",
+      "knowledge_ref": "benchmark/knowledge/benchmark_v2.md",
       "execution_status": "ok",
       "result_mode": "full_rows",
       "result_columns": [
@@ -541,7 +541,7 @@
         "morning_pct"
       ],
       "result_row_count": 1,
-      "result_ref": "results/S04.json",
+      "result_ref": "benchmark/results/S04.json",
       "evaluation_policy": {
         "allow_extra_columns": true,
         "allow_column_permutation": true,
@@ -638,9 +638,9 @@
       "legacy_scenario_zh": "地铁",
       "legacy_difficulty": "中",
       "change_type": "修订",
-      "schema_ref": "schemas/simplified_v1.json",
-      "schema_markdown_ref": "schemas/simplified_v1.md",
-      "knowledge_ref": "knowledge/benchmark_v2.md",
+      "schema_ref": "benchmark/schemas/simplified_v1.json",
+      "schema_markdown_ref": "benchmark/schemas/simplified_v1.md",
+      "knowledge_ref": "benchmark/knowledge/benchmark_v2.md",
       "execution_status": "ok",
       "result_mode": "full_rows",
       "result_columns": [
@@ -652,7 +652,7 @@
         "compared_hours"
       ],
       "result_row_count": 10,
-      "result_ref": "results/S05.json",
+      "result_ref": "benchmark/results/S05.json",
       "evaluation_policy": {
         "allow_extra_columns": true,
         "allow_column_permutation": true,
@@ -787,9 +787,9 @@
       "legacy_scenario_zh": "地铁",
       "legacy_difficulty": "中",
       "change_type": "修订",
-      "schema_ref": "schemas/simplified_v1.json",
-      "schema_markdown_ref": "schemas/simplified_v1.md",
-      "knowledge_ref": "knowledge/benchmark_v2.md",
+      "schema_ref": "benchmark/schemas/simplified_v1.json",
+      "schema_markdown_ref": "benchmark/schemas/simplified_v1.md",
+      "knowledge_ref": "benchmark/knowledge/benchmark_v2.md",
       "execution_status": "ok",
       "result_mode": "full_rows",
       "result_columns": [
@@ -800,7 +800,7 @@
         "exit_total"
       ],
       "result_row_count": 21,
-      "result_ref": "results/S06.json",
+      "result_ref": "benchmark/results/S06.json",
       "evaluation_policy": {
         "allow_extra_columns": true,
         "allow_column_permutation": true,
@@ -919,9 +919,9 @@
       "legacy_scenario_zh": "地铁",
       "legacy_difficulty": "难",
       "change_type": "修订",
-      "schema_ref": "schemas/simplified_v1.json",
-      "schema_markdown_ref": "schemas/simplified_v1.md",
-      "knowledge_ref": "knowledge/benchmark_v2.md",
+      "schema_ref": "benchmark/schemas/simplified_v1.json",
+      "schema_markdown_ref": "benchmark/schemas/simplified_v1.md",
+      "knowledge_ref": "benchmark/knowledge/benchmark_v2.md",
       "execution_status": "ok",
       "result_mode": "full_rows",
       "result_columns": [
@@ -931,7 +931,7 @@
         "peak_entry"
       ],
       "result_row_count": 416,
-      "result_ref": "results/S07.json",
+      "result_ref": "benchmark/results/S07.json",
       "evaluation_policy": {
         "allow_extra_columns": true,
         "allow_column_permutation": true,
@@ -1038,9 +1038,9 @@
       "legacy_scenario_zh": "地铁",
       "legacy_difficulty": "中",
       "change_type": "修订",
-      "schema_ref": "schemas/simplified_v1.json",
-      "schema_markdown_ref": "schemas/simplified_v1.md",
-      "knowledge_ref": "knowledge/benchmark_v2.md",
+      "schema_ref": "benchmark/schemas/simplified_v1.json",
+      "schema_markdown_ref": "benchmark/schemas/simplified_v1.md",
+      "knowledge_ref": "benchmark/knowledge/benchmark_v2.md",
       "execution_status": "ok",
       "result_mode": "full_rows",
       "result_columns": [
@@ -1050,7 +1050,7 @@
         "exit_total"
       ],
       "result_row_count": 19,
-      "result_ref": "results/S08.json",
+      "result_ref": "benchmark/results/S08.json",
       "evaluation_policy": {
         "allow_extra_columns": true,
         "allow_column_permutation": true,
@@ -1157,16 +1157,16 @@
       "legacy_scenario_zh": "公交",
       "legacy_difficulty": "简",
       "change_type": "修订",
-      "schema_ref": "schemas/simplified_v1.json",
-      "schema_markdown_ref": "schemas/simplified_v1.md",
-      "knowledge_ref": "knowledge/benchmark_v2.md",
+      "schema_ref": "benchmark/schemas/simplified_v1.json",
+      "schema_markdown_ref": "benchmark/schemas/simplified_v1.md",
+      "knowledge_ref": "benchmark/knowledge/benchmark_v2.md",
       "execution_status": "ok",
       "result_mode": "full_rows",
       "result_columns": [
         "bus_total"
       ],
       "result_row_count": 1,
-      "result_ref": "results/S09.json",
+      "result_ref": "benchmark/results/S09.json",
       "evaluation_policy": {
         "allow_extra_columns": true,
         "allow_column_permutation": true,
@@ -1237,9 +1237,9 @@
       "legacy_scenario_zh": "公交",
       "legacy_difficulty": "简",
       "change_type": "修订",
-      "schema_ref": "schemas/simplified_v1.json",
-      "schema_markdown_ref": "schemas/simplified_v1.md",
-      "knowledge_ref": "knowledge/benchmark_v2.md",
+      "schema_ref": "benchmark/schemas/simplified_v1.json",
+      "schema_markdown_ref": "benchmark/schemas/simplified_v1.md",
+      "knowledge_ref": "benchmark/knowledge/benchmark_v2.md",
       "execution_status": "ok",
       "result_mode": "full_rows",
       "result_columns": [
@@ -1248,7 +1248,7 @@
         "observed_lines"
       ],
       "result_row_count": 24,
-      "result_ref": "results/S10.json",
+      "result_ref": "benchmark/results/S10.json",
       "evaluation_policy": {
         "allow_extra_columns": true,
         "allow_column_permutation": true,
@@ -1343,9 +1343,9 @@
       "legacy_scenario_zh": "公交",
       "legacy_difficulty": "中",
       "change_type": "修订",
-      "schema_ref": "schemas/simplified_v1.json",
-      "schema_markdown_ref": "schemas/simplified_v1.md",
-      "knowledge_ref": "knowledge/benchmark_v2.md",
+      "schema_ref": "benchmark/schemas/simplified_v1.json",
+      "schema_markdown_ref": "benchmark/schemas/simplified_v1.md",
+      "knowledge_ref": "benchmark/knowledge/benchmark_v2.md",
       "execution_status": "ok",
       "result_mode": "full_rows",
       "result_columns": [
@@ -1354,7 +1354,7 @@
         "bus_total"
       ],
       "result_row_count": 10,
-      "result_ref": "results/S11.json",
+      "result_ref": "benchmark/results/S11.json",
       "evaluation_policy": {
         "allow_extra_columns": true,
         "allow_column_permutation": true,
@@ -1453,9 +1453,9 @@
       "legacy_scenario_zh": "公交",
       "legacy_difficulty": "中",
       "change_type": "修订",
-      "schema_ref": "schemas/simplified_v1.json",
-      "schema_markdown_ref": "schemas/simplified_v1.md",
-      "knowledge_ref": "knowledge/benchmark_v2.md",
+      "schema_ref": "benchmark/schemas/simplified_v1.json",
+      "schema_markdown_ref": "benchmark/schemas/simplified_v1.md",
+      "knowledge_ref": "benchmark/knowledge/benchmark_v2.md",
       "execution_status": "ok",
       "result_mode": "full_rows",
       "result_columns": [
@@ -1466,7 +1466,7 @@
         "increase"
       ],
       "result_row_count": 10,
-      "result_ref": "results/S12.json",
+      "result_ref": "benchmark/results/S12.json",
       "evaluation_policy": {
         "allow_extra_columns": true,
         "allow_column_permutation": true,
@@ -1589,9 +1589,9 @@
       "legacy_scenario_zh": "公交",
       "legacy_difficulty": "难",
       "change_type": "修订",
-      "schema_ref": "schemas/simplified_v1.json",
-      "schema_markdown_ref": "schemas/simplified_v1.md",
-      "knowledge_ref": "knowledge/benchmark_v2.md",
+      "schema_ref": "benchmark/schemas/simplified_v1.json",
+      "schema_markdown_ref": "benchmark/schemas/simplified_v1.md",
+      "knowledge_ref": "benchmark/knowledge/benchmark_v2.md",
       "execution_status": "ok",
       "result_mode": "full_rows",
       "result_columns": [
@@ -1601,7 +1601,7 @@
         "peak_flow"
       ],
       "result_row_count": 935,
-      "result_ref": "results/S13.json",
+      "result_ref": "benchmark/results/S13.json",
       "evaluation_policy": {
         "allow_extra_columns": true,
         "allow_column_permutation": true,
@@ -1708,9 +1708,9 @@
       "legacy_scenario_zh": "公交",
       "legacy_difficulty": "中",
       "change_type": "修订",
-      "schema_ref": "schemas/simplified_v1.json",
-      "schema_markdown_ref": "schemas/simplified_v1.md",
-      "knowledge_ref": "knowledge/benchmark_v2.md",
+      "schema_ref": "benchmark/schemas/simplified_v1.json",
+      "schema_markdown_ref": "benchmark/schemas/simplified_v1.md",
+      "knowledge_ref": "benchmark/knowledge/benchmark_v2.md",
       "execution_status": "ok",
       "result_mode": "full_rows",
       "result_columns": [
@@ -1720,7 +1720,7 @@
         "positive_hours"
       ],
       "result_row_count": 520,
-      "result_ref": "results/S14.json",
+      "result_ref": "benchmark/results/S14.json",
       "evaluation_policy": {
         "allow_extra_columns": true,
         "allow_column_permutation": true,
@@ -1827,9 +1827,9 @@
       "legacy_scenario_zh": "公交",
       "legacy_difficulty": "中",
       "change_type": "修订",
-      "schema_ref": "schemas/simplified_v1.json",
-      "schema_markdown_ref": "schemas/simplified_v1.md",
-      "knowledge_ref": "knowledge/benchmark_v2.md",
+      "schema_ref": "benchmark/schemas/simplified_v1.json",
+      "schema_markdown_ref": "benchmark/schemas/simplified_v1.md",
+      "knowledge_ref": "benchmark/knowledge/benchmark_v2.md",
       "execution_status": "ok",
       "result_mode": "full_rows",
       "result_columns": [
@@ -1839,7 +1839,7 @@
         "passenger_flow"
       ],
       "result_row_count": 24,
-      "result_ref": "results/S15.json",
+      "result_ref": "benchmark/results/S15.json",
       "evaluation_policy": {
         "allow_extra_columns": true,
         "allow_column_permutation": true,
@@ -1946,9 +1946,9 @@
       "legacy_scenario_zh": "公交",
       "legacy_difficulty": "中",
       "change_type": "修订",
-      "schema_ref": "schemas/simplified_v1.json",
-      "schema_markdown_ref": "schemas/simplified_v1.md",
-      "knowledge_ref": "knowledge/benchmark_v2.md",
+      "schema_ref": "benchmark/schemas/simplified_v1.json",
+      "schema_markdown_ref": "benchmark/schemas/simplified_v1.md",
+      "knowledge_ref": "benchmark/knowledge/benchmark_v2.md",
       "execution_status": "ok",
       "result_mode": "full_rows",
       "result_columns": [
@@ -1959,7 +1959,7 @@
         "average_hourly_flow"
       ],
       "result_row_count": 10,
-      "result_ref": "results/S16.json",
+      "result_ref": "benchmark/results/S16.json",
       "evaluation_policy": {
         "allow_extra_columns": true,
         "allow_column_permutation": true,
@@ -2083,9 +2083,9 @@
       "legacy_scenario_zh": "出租车",
       "legacy_difficulty": "简",
       "change_type": "修订",
-      "schema_ref": "schemas/simplified_v1.json",
-      "schema_markdown_ref": "schemas/simplified_v1.md",
-      "knowledge_ref": "knowledge/benchmark_v2.md",
+      "schema_ref": "benchmark/schemas/simplified_v1.json",
+      "schema_markdown_ref": "benchmark/schemas/simplified_v1.md",
+      "knowledge_ref": "benchmark/knowledge/benchmark_v2.md",
       "execution_status": "ok",
       "result_mode": "full_rows",
       "result_columns": [
@@ -2093,7 +2093,7 @@
         "dropoff_total"
       ],
       "result_row_count": 1,
-      "result_ref": "results/S17.json",
+      "result_ref": "benchmark/results/S17.json",
       "evaluation_policy": {
         "allow_extra_columns": true,
         "allow_column_permutation": true,
@@ -2176,9 +2176,9 @@
       "legacy_scenario_zh": "出租车",
       "legacy_difficulty": "简",
       "change_type": "修订",
-      "schema_ref": "schemas/simplified_v1.json",
-      "schema_markdown_ref": "schemas/simplified_v1.md",
-      "knowledge_ref": "knowledge/benchmark_v2.md",
+      "schema_ref": "benchmark/schemas/simplified_v1.json",
+      "schema_markdown_ref": "benchmark/schemas/simplified_v1.md",
+      "knowledge_ref": "benchmark/knowledge/benchmark_v2.md",
       "execution_status": "ok",
       "result_mode": "full_rows",
       "result_columns": [
@@ -2187,7 +2187,7 @@
         "dropoff_total"
       ],
       "result_row_count": 24,
-      "result_ref": "results/S18.json",
+      "result_ref": "benchmark/results/S18.json",
       "evaluation_policy": {
         "allow_extra_columns": true,
         "allow_column_permutation": true,
@@ -2282,9 +2282,9 @@
       "legacy_scenario_zh": "出租车",
       "legacy_difficulty": "中",
       "change_type": "修订",
-      "schema_ref": "schemas/simplified_v1.json",
-      "schema_markdown_ref": "schemas/simplified_v1.md",
-      "knowledge_ref": "knowledge/benchmark_v2.md",
+      "schema_ref": "benchmark/schemas/simplified_v1.json",
+      "schema_markdown_ref": "benchmark/schemas/simplified_v1.md",
+      "knowledge_ref": "benchmark/knowledge/benchmark_v2.md",
       "execution_status": "ok",
       "result_mode": "full_rows",
       "result_columns": [
@@ -2292,7 +2292,7 @@
         "pickup_total"
       ],
       "result_row_count": 10,
-      "result_ref": "results/S19.json",
+      "result_ref": "benchmark/results/S19.json",
       "evaluation_policy": {
         "allow_extra_columns": true,
         "allow_column_permutation": true,
@@ -2379,9 +2379,9 @@
       "legacy_scenario_zh": "出租车",
       "legacy_difficulty": "中",
       "change_type": "修订",
-      "schema_ref": "schemas/simplified_v1.json",
-      "schema_markdown_ref": "schemas/simplified_v1.md",
-      "knowledge_ref": "knowledge/benchmark_v2.md",
+      "schema_ref": "benchmark/schemas/simplified_v1.json",
+      "schema_markdown_ref": "benchmark/schemas/simplified_v1.md",
+      "knowledge_ref": "benchmark/knowledge/benchmark_v2.md",
       "execution_status": "ok",
       "result_mode": "full_rows",
       "result_columns": [
@@ -2389,7 +2389,7 @@
         "dropoff_total"
       ],
       "result_row_count": 10,
-      "result_ref": "results/S20.json",
+      "result_ref": "benchmark/results/S20.json",
       "evaluation_policy": {
         "allow_extra_columns": true,
         "allow_column_permutation": true,
@@ -2418,7 +2418,7 @@
           }
         ],
         "topk_tie_compatibility": {
-          "eligible_rows_ref": "results/topk_eligible/S20.json"
+          "eligible_rows_ref": "benchmark/results/topk_eligible/S20.json"
         }
       },
       "review_status": "pending_two_person_review",
@@ -2479,9 +2479,9 @@
       "legacy_scenario_zh": "出租车",
       "legacy_difficulty": "难",
       "change_type": "修订",
-      "schema_ref": "schemas/simplified_v1.json",
-      "schema_markdown_ref": "schemas/simplified_v1.md",
-      "knowledge_ref": "knowledge/benchmark_v2.md",
+      "schema_ref": "benchmark/schemas/simplified_v1.json",
+      "schema_markdown_ref": "benchmark/schemas/simplified_v1.md",
+      "knowledge_ref": "benchmark/knowledge/benchmark_v2.md",
       "execution_status": "ok",
       "result_mode": "full_rows",
       "result_columns": [
@@ -2492,7 +2492,7 @@
         "difference"
       ],
       "result_row_count": 10,
-      "result_ref": "results/S21.json",
+      "result_ref": "benchmark/results/S21.json",
       "evaluation_policy": {
         "allow_extra_columns": true,
         "allow_column_permutation": true,
@@ -2542,7 +2542,7 @@
           }
         ],
         "topk_tie_compatibility": {
-          "eligible_rows_ref": "results/topk_eligible/S21.json"
+          "eligible_rows_ref": "benchmark/results/topk_eligible/S21.json"
         }
       },
       "review_status": "pending_two_person_review",
@@ -2618,9 +2618,9 @@
       "legacy_scenario_zh": "出租车",
       "legacy_difficulty": "中",
       "change_type": "修订",
-      "schema_ref": "schemas/simplified_v1.json",
-      "schema_markdown_ref": "schemas/simplified_v1.md",
-      "knowledge_ref": "knowledge/benchmark_v2.md",
+      "schema_ref": "benchmark/schemas/simplified_v1.json",
+      "schema_markdown_ref": "benchmark/schemas/simplified_v1.md",
+      "knowledge_ref": "benchmark/knowledge/benchmark_v2.md",
       "execution_status": "ok",
       "result_mode": "full_rows",
       "result_columns": [
@@ -2631,7 +2631,7 @@
         "evening_hours"
       ],
       "result_row_count": 64,
-      "result_ref": "results/S22.json",
+      "result_ref": "benchmark/results/S22.json",
       "evaluation_policy": {
         "allow_extra_columns": true,
         "allow_column_permutation": true,
@@ -2750,9 +2750,9 @@
       "legacy_scenario_zh": "出租车",
       "legacy_difficulty": "中",
       "change_type": "修订",
-      "schema_ref": "schemas/simplified_v1.json",
-      "schema_markdown_ref": "schemas/simplified_v1.md",
-      "knowledge_ref": "knowledge/benchmark_v2.md",
+      "schema_ref": "benchmark/schemas/simplified_v1.json",
+      "schema_markdown_ref": "benchmark/schemas/simplified_v1.md",
+      "knowledge_ref": "benchmark/knowledge/benchmark_v2.md",
       "execution_status": "ok",
       "result_mode": "full_rows",
       "result_columns": [
@@ -2761,7 +2761,7 @@
         "top10_pct"
       ],
       "result_row_count": 1,
-      "result_ref": "results/S23.json",
+      "result_ref": "benchmark/results/S23.json",
       "evaluation_policy": {
         "allow_extra_columns": true,
         "allow_column_permutation": true,
@@ -2862,9 +2862,9 @@
       "legacy_scenario_zh": "出租车",
       "legacy_difficulty": "难",
       "change_type": "修订",
-      "schema_ref": "schemas/simplified_v1.json",
-      "schema_markdown_ref": "schemas/simplified_v1.md",
-      "knowledge_ref": "knowledge/benchmark_v2.md",
+      "schema_ref": "benchmark/schemas/simplified_v1.json",
+      "schema_markdown_ref": "benchmark/schemas/simplified_v1.md",
+      "knowledge_ref": "benchmark/knowledge/benchmark_v2.md",
       "execution_status": "ok",
       "result_mode": "full_rows",
       "result_columns": [
@@ -2874,7 +2874,7 @@
         "rank_in_hour"
       ],
       "result_row_count": 72,
-      "result_ref": "results/S24.json",
+      "result_ref": "benchmark/results/S24.json",
       "evaluation_policy": {
         "allow_extra_columns": true,
         "allow_column_permutation": true,
@@ -2917,7 +2917,7 @@
           }
         ],
         "topk_tie_compatibility": {
-          "eligible_rows_ref": "results/topk_eligible/S24.json"
+          "eligible_rows_ref": "benchmark/results/topk_eligible/S24.json"
         }
       },
       "review_status": "pending_two_person_review",
@@ -2988,9 +2988,9 @@
       "legacy_scenario_zh": "网约车",
       "legacy_difficulty": "中",
       "change_type": "修订",
-      "schema_ref": "schemas/simplified_v1.json",
-      "schema_markdown_ref": "schemas/simplified_v1.md",
-      "knowledge_ref": "knowledge/benchmark_v2.md",
+      "schema_ref": "benchmark/schemas/simplified_v1.json",
+      "schema_markdown_ref": "benchmark/schemas/simplified_v1.md",
+      "knowledge_ref": "benchmark/knowledge/benchmark_v2.md",
       "execution_status": "ok",
       "result_mode": "full_rows",
       "result_columns": [
@@ -3001,7 +3001,7 @@
         "dropoff_pct"
       ],
       "result_row_count": 24,
-      "result_ref": "results/S25.json",
+      "result_ref": "benchmark/results/S25.json",
       "evaluation_policy": {
         "allow_extra_columns": true,
         "allow_column_permutation": true,
@@ -3123,9 +3123,9 @@
       "legacy_scenario_zh": "网约车",
       "legacy_difficulty": "中",
       "change_type": "修订",
-      "schema_ref": "schemas/simplified_v1.json",
-      "schema_markdown_ref": "schemas/simplified_v1.md",
-      "knowledge_ref": "knowledge/benchmark_v2.md",
+      "schema_ref": "benchmark/schemas/simplified_v1.json",
+      "schema_markdown_ref": "benchmark/schemas/simplified_v1.md",
+      "knowledge_ref": "benchmark/knowledge/benchmark_v2.md",
       "execution_status": "ok",
       "result_mode": "full_rows",
       "result_columns": [
@@ -3133,7 +3133,7 @@
         "order_total"
       ],
       "result_row_count": 10,
-      "result_ref": "results/S26.json",
+      "result_ref": "benchmark/results/S26.json",
       "evaluation_policy": {
         "allow_extra_columns": true,
         "allow_column_permutation": true,
@@ -3220,9 +3220,9 @@
       "legacy_scenario_zh": "网约车",
       "legacy_difficulty": "中",
       "change_type": "修订",
-      "schema_ref": "schemas/simplified_v1.json",
-      "schema_markdown_ref": "schemas/simplified_v1.md",
-      "knowledge_ref": "knowledge/benchmark_v2.md",
+      "schema_ref": "benchmark/schemas/simplified_v1.json",
+      "schema_markdown_ref": "benchmark/schemas/simplified_v1.md",
+      "knowledge_ref": "benchmark/knowledge/benchmark_v2.md",
       "execution_status": "ok",
       "result_mode": "full_rows",
       "result_columns": [
@@ -3233,7 +3233,7 @@
         "evening_pct"
       ],
       "result_row_count": 1,
-      "result_ref": "results/S27.json",
+      "result_ref": "benchmark/results/S27.json",
       "evaluation_policy": {
         "allow_extra_columns": true,
         "allow_column_permutation": true,
@@ -3355,16 +3355,16 @@
       "legacy_scenario_zh": "网约车",
       "legacy_difficulty": "中",
       "change_type": "修订",
-      "schema_ref": "schemas/simplified_v1.json",
-      "schema_markdown_ref": "schemas/simplified_v1.md",
-      "knowledge_ref": "knowledge/benchmark_v2.md",
+      "schema_ref": "benchmark/schemas/simplified_v1.json",
+      "schema_markdown_ref": "benchmark/schemas/simplified_v1.md",
+      "knowledge_ref": "benchmark/knowledge/benchmark_v2.md",
       "execution_status": "ok",
       "result_mode": "full_rows",
       "result_columns": [
         "qualifying_grids"
       ],
       "result_row_count": 1,
-      "result_ref": "results/S28.json",
+      "result_ref": "benchmark/results/S28.json",
       "evaluation_policy": {
         "allow_extra_columns": true,
         "allow_column_permutation": true,
@@ -3435,9 +3435,9 @@
       "legacy_scenario_zh": "网约车",
       "legacy_difficulty": "难",
       "change_type": "修订",
-      "schema_ref": "schemas/simplified_v1.json",
-      "schema_markdown_ref": "schemas/simplified_v1.md",
-      "knowledge_ref": "knowledge/benchmark_v2.md",
+      "schema_ref": "benchmark/schemas/simplified_v1.json",
+      "schema_markdown_ref": "benchmark/schemas/simplified_v1.md",
+      "knowledge_ref": "benchmark/knowledge/benchmark_v2.md",
       "execution_status": "ok",
       "result_mode": "full_rows",
       "result_columns": [
@@ -3447,7 +3447,7 @@
         "qualifying_grid_hours"
       ],
       "result_row_count": 10,
-      "result_ref": "results/S29.json",
+      "result_ref": "benchmark/results/S29.json",
       "evaluation_policy": {
         "allow_extra_columns": true,
         "allow_column_permutation": true,
@@ -3558,9 +3558,9 @@
       "legacy_scenario_zh": "网约车",
       "legacy_difficulty": "中",
       "change_type": "修订",
-      "schema_ref": "schemas/simplified_v1.json",
-      "schema_markdown_ref": "schemas/simplified_v1.md",
-      "knowledge_ref": "knowledge/benchmark_v2.md",
+      "schema_ref": "benchmark/schemas/simplified_v1.json",
+      "schema_markdown_ref": "benchmark/schemas/simplified_v1.md",
+      "knowledge_ref": "benchmark/knowledge/benchmark_v2.md",
       "execution_status": "ok",
       "result_mode": "full_rows",
       "result_columns": [
@@ -3570,7 +3570,7 @@
         "evening_pct"
       ],
       "result_row_count": 10,
-      "result_ref": "results/S30.json",
+      "result_ref": "benchmark/results/S30.json",
       "evaluation_policy": {
         "allow_extra_columns": true,
         "allow_column_permutation": true,
@@ -3683,9 +3683,9 @@
       "legacy_scenario_zh": "网约车",
       "legacy_difficulty": "难",
       "change_type": "修订",
-      "schema_ref": "schemas/simplified_v1.json",
-      "schema_markdown_ref": "schemas/simplified_v1.md",
-      "knowledge_ref": "knowledge/benchmark_v2.md",
+      "schema_ref": "benchmark/schemas/simplified_v1.json",
+      "schema_markdown_ref": "benchmark/schemas/simplified_v1.md",
+      "knowledge_ref": "benchmark/knowledge/benchmark_v2.md",
       "execution_status": "ok",
       "result_mode": "full_rows",
       "result_columns": [
@@ -3697,7 +3697,7 @@
         "increase"
       ],
       "result_row_count": 10,
-      "result_ref": "results/S31.json",
+      "result_ref": "benchmark/results/S31.json",
       "evaluation_policy": {
         "allow_extra_columns": true,
         "allow_column_permutation": true,
@@ -3832,9 +3832,9 @@
       "legacy_scenario_zh": "网约车",
       "legacy_difficulty": "难",
       "change_type": "修订",
-      "schema_ref": "schemas/simplified_v1.json",
-      "schema_markdown_ref": "schemas/simplified_v1.md",
-      "knowledge_ref": "knowledge/benchmark_v2.md",
+      "schema_ref": "benchmark/schemas/simplified_v1.json",
+      "schema_markdown_ref": "benchmark/schemas/simplified_v1.md",
+      "knowledge_ref": "benchmark/knowledge/benchmark_v2.md",
       "execution_status": "ok",
       "result_mode": "full_rows",
       "result_columns": [
@@ -3845,7 +3845,7 @@
         "difference"
       ],
       "result_row_count": 10,
-      "result_ref": "results/S32.json",
+      "result_ref": "benchmark/results/S32.json",
       "evaluation_policy": {
         "allow_extra_columns": true,
         "allow_column_permutation": true,
@@ -3968,16 +3968,16 @@
       "legacy_scenario_zh": "共享单车",
       "legacy_difficulty": "简",
       "change_type": "修订",
-      "schema_ref": "schemas/simplified_v1.json",
-      "schema_markdown_ref": "schemas/simplified_v1.md",
-      "knowledge_ref": "knowledge/benchmark_v2.md",
+      "schema_ref": "benchmark/schemas/simplified_v1.json",
+      "schema_markdown_ref": "benchmark/schemas/simplified_v1.md",
+      "knowledge_ref": "benchmark/knowledge/benchmark_v2.md",
       "execution_status": "ok",
       "result_mode": "full_rows",
       "result_columns": [
         "lock_total"
       ],
       "result_row_count": 1,
-      "result_ref": "results/S33.json",
+      "result_ref": "benchmark/results/S33.json",
       "evaluation_policy": {
         "allow_extra_columns": true,
         "allow_column_permutation": true,
@@ -4048,9 +4048,9 @@
       "legacy_scenario_zh": "共享单车",
       "legacy_difficulty": "简",
       "change_type": "修订",
-      "schema_ref": "schemas/simplified_v1.json",
-      "schema_markdown_ref": "schemas/simplified_v1.md",
-      "knowledge_ref": "knowledge/benchmark_v2.md",
+      "schema_ref": "benchmark/schemas/simplified_v1.json",
+      "schema_markdown_ref": "benchmark/schemas/simplified_v1.md",
+      "knowledge_ref": "benchmark/knowledge/benchmark_v2.md",
       "execution_status": "ok",
       "result_mode": "full_rows",
       "result_columns": [
@@ -4058,7 +4058,7 @@
         "lock_total"
       ],
       "result_row_count": 24,
-      "result_ref": "results/S34.json",
+      "result_ref": "benchmark/results/S34.json",
       "evaluation_policy": {
         "allow_extra_columns": true,
         "allow_column_permutation": true,
@@ -4141,9 +4141,9 @@
       "legacy_scenario_zh": "共享单车",
       "legacy_difficulty": "中",
       "change_type": "修订",
-      "schema_ref": "schemas/simplified_v1.json",
-      "schema_markdown_ref": "schemas/simplified_v1.md",
-      "knowledge_ref": "knowledge/benchmark_v2.md",
+      "schema_ref": "benchmark/schemas/simplified_v1.json",
+      "schema_markdown_ref": "benchmark/schemas/simplified_v1.md",
+      "knowledge_ref": "benchmark/knowledge/benchmark_v2.md",
       "execution_status": "ok",
       "result_mode": "full_rows",
       "result_columns": [
@@ -4151,7 +4151,7 @@
         "lock_total"
       ],
       "result_row_count": 1,
-      "result_ref": "results/S35.json",
+      "result_ref": "benchmark/results/S35.json",
       "evaluation_policy": {
         "allow_extra_columns": true,
         "allow_column_permutation": true,
@@ -4234,9 +4234,9 @@
       "legacy_scenario_zh": "共享单车",
       "legacy_difficulty": "中",
       "change_type": "修订",
-      "schema_ref": "schemas/simplified_v1.json",
-      "schema_markdown_ref": "schemas/simplified_v1.md",
-      "knowledge_ref": "knowledge/benchmark_v2.md",
+      "schema_ref": "benchmark/schemas/simplified_v1.json",
+      "schema_markdown_ref": "benchmark/schemas/simplified_v1.md",
+      "knowledge_ref": "benchmark/knowledge/benchmark_v2.md",
       "execution_status": "ok",
       "result_mode": "full_rows",
       "result_columns": [
@@ -4244,7 +4244,7 @@
         "lock_total"
       ],
       "result_row_count": 10,
-      "result_ref": "results/S36.json",
+      "result_ref": "benchmark/results/S36.json",
       "evaluation_policy": {
         "allow_extra_columns": true,
         "allow_column_permutation": true,
@@ -4331,9 +4331,9 @@
       "legacy_scenario_zh": "共享单车",
       "legacy_difficulty": "中",
       "change_type": "修订",
-      "schema_ref": "schemas/simplified_v1.json",
-      "schema_markdown_ref": "schemas/simplified_v1.md",
-      "knowledge_ref": "knowledge/benchmark_v2.md",
+      "schema_ref": "benchmark/schemas/simplified_v1.json",
+      "schema_markdown_ref": "benchmark/schemas/simplified_v1.md",
+      "knowledge_ref": "benchmark/knowledge/benchmark_v2.md",
       "execution_status": "ok",
       "result_mode": "full_rows",
       "result_columns": [
@@ -4342,7 +4342,7 @@
         "top10_pct"
       ],
       "result_row_count": 1,
-      "result_ref": "results/S37.json",
+      "result_ref": "benchmark/results/S37.json",
       "evaluation_policy": {
         "allow_extra_columns": true,
         "allow_column_permutation": true,
@@ -4443,9 +4443,9 @@
       "legacy_scenario_zh": "共享单车",
       "legacy_difficulty": "难",
       "change_type": "修订",
-      "schema_ref": "schemas/simplified_v1.json",
-      "schema_markdown_ref": "schemas/simplified_v1.md",
-      "knowledge_ref": "knowledge/benchmark_v2.md",
+      "schema_ref": "benchmark/schemas/simplified_v1.json",
+      "schema_markdown_ref": "benchmark/schemas/simplified_v1.md",
+      "knowledge_ref": "benchmark/knowledge/benchmark_v2.md",
       "execution_status": "ok",
       "result_mode": "full_rows",
       "result_columns": [
@@ -4455,7 +4455,7 @@
         "locks_9"
       ],
       "result_row_count": 1427,
-      "result_ref": "results/S38.json",
+      "result_ref": "benchmark/results/S38.json",
       "evaluation_policy": {
         "allow_extra_columns": true,
         "allow_column_permutation": true,
@@ -4562,9 +4562,9 @@
       "legacy_scenario_zh": "共享单车",
       "legacy_difficulty": "中",
       "change_type": "修订",
-      "schema_ref": "schemas/simplified_v1.json",
-      "schema_markdown_ref": "schemas/simplified_v1.md",
-      "knowledge_ref": "knowledge/benchmark_v2.md",
+      "schema_ref": "benchmark/schemas/simplified_v1.json",
+      "schema_markdown_ref": "benchmark/schemas/simplified_v1.md",
+      "knowledge_ref": "benchmark/knowledge/benchmark_v2.md",
       "execution_status": "ok",
       "result_mode": "full_rows",
       "result_columns": [
@@ -4573,7 +4573,7 @@
         "morning_pct"
       ],
       "result_row_count": 1,
-      "result_ref": "results/S39.json",
+      "result_ref": "benchmark/results/S39.json",
       "evaluation_policy": {
         "allow_extra_columns": true,
         "allow_column_permutation": true,
@@ -4670,9 +4670,9 @@
       "legacy_scenario_zh": "共享单车",
       "legacy_difficulty": "中",
       "change_type": "修订",
-      "schema_ref": "schemas/simplified_v1.json",
-      "schema_markdown_ref": "schemas/simplified_v1.md",
-      "knowledge_ref": "knowledge/benchmark_v2.md",
+      "schema_ref": "benchmark/schemas/simplified_v1.json",
+      "schema_markdown_ref": "benchmark/schemas/simplified_v1.md",
+      "knowledge_ref": "benchmark/knowledge/benchmark_v2.md",
       "execution_status": "ok",
       "result_mode": "full_rows",
       "result_columns": [
@@ -4684,7 +4684,7 @@
         "evening_hours"
       ],
       "result_row_count": 10,
-      "result_ref": "results/S40.json",
+      "result_ref": "benchmark/results/S40.json",
       "evaluation_policy": {
         "allow_extra_columns": true,
         "allow_column_permutation": true,
@@ -4741,7 +4741,7 @@
           }
         ],
         "topk_tie_compatibility": {
-          "eligible_rows_ref": "results/topk_eligible/S40.json"
+          "eligible_rows_ref": "benchmark/results/topk_eligible/S40.json"
         }
       },
       "review_status": "pending_two_person_review",
@@ -4822,9 +4822,9 @@
       "legacy_scenario_zh": "联合查询 A",
       "legacy_difficulty": "难",
       "change_type": "修订",
-      "schema_ref": "schemas/simplified_v1.json",
-      "schema_markdown_ref": "schemas/simplified_v1.md",
-      "knowledge_ref": "knowledge/benchmark_v2.md",
+      "schema_ref": "benchmark/schemas/simplified_v1.json",
+      "schema_markdown_ref": "benchmark/schemas/simplified_v1.md",
+      "knowledge_ref": "benchmark/knowledge/benchmark_v2.md",
       "execution_status": "ok",
       "result_mode": "full_rows",
       "result_columns": [
@@ -4835,7 +4835,7 @@
         "cumulative_bus_flow"
       ],
       "result_row_count": 23,
-      "result_ref": "results/X01.json",
+      "result_ref": "benchmark/results/X01.json",
       "evaluation_policy": {
         "allow_extra_columns": true,
         "allow_column_permutation": true,
@@ -4954,9 +4954,9 @@
       "legacy_scenario_zh": "联合查询 A",
       "legacy_difficulty": "难",
       "change_type": "修订",
-      "schema_ref": "schemas/simplified_v1.json",
-      "schema_markdown_ref": "schemas/simplified_v1.md",
-      "knowledge_ref": "knowledge/benchmark_v2.md",
+      "schema_ref": "benchmark/schemas/simplified_v1.json",
+      "schema_markdown_ref": "benchmark/schemas/simplified_v1.md",
+      "knowledge_ref": "benchmark/knowledge/benchmark_v2.md",
       "execution_status": "ok",
       "result_mode": "full_rows",
       "result_columns": [
@@ -4966,7 +4966,7 @@
         "window_total"
       ],
       "result_row_count": 2,
-      "result_ref": "results/X02.json",
+      "result_ref": "benchmark/results/X02.json",
       "evaluation_policy": {
         "allow_extra_columns": true,
         "allow_column_permutation": true,
@@ -5077,9 +5077,9 @@
       "legacy_scenario_zh": "联合查询 A",
       "legacy_difficulty": "难",
       "change_type": "修订",
-      "schema_ref": "schemas/simplified_v1.json",
-      "schema_markdown_ref": "schemas/simplified_v1.md",
-      "knowledge_ref": "knowledge/benchmark_v2.md",
+      "schema_ref": "benchmark/schemas/simplified_v1.json",
+      "schema_markdown_ref": "benchmark/schemas/simplified_v1.md",
+      "knowledge_ref": "benchmark/knowledge/benchmark_v2.md",
       "execution_status": "ok",
       "result_mode": "full_rows",
       "result_columns": [
@@ -5088,7 +5088,7 @@
         "common_peak_hour"
       ],
       "result_row_count": 3,
-      "result_ref": "results/X03.json",
+      "result_ref": "benchmark/results/X03.json",
       "evaluation_policy": {
         "allow_extra_columns": true,
         "allow_column_permutation": true,
@@ -5200,9 +5200,9 @@
       "legacy_scenario_zh": "联合查询 A",
       "legacy_difficulty": "难",
       "change_type": "修订",
-      "schema_ref": "schemas/simplified_v1.json",
-      "schema_markdown_ref": "schemas/simplified_v1.md",
-      "knowledge_ref": "knowledge/benchmark_v2.md",
+      "schema_ref": "benchmark/schemas/simplified_v1.json",
+      "schema_markdown_ref": "benchmark/schemas/simplified_v1.md",
+      "knowledge_ref": "benchmark/knowledge/benchmark_v2.md",
       "execution_status": "ok",
       "result_mode": "full_rows",
       "result_columns": [
@@ -5214,7 +5214,7 @@
         "rank_difference"
       ],
       "result_row_count": 1,
-      "result_ref": "results/X04.json",
+      "result_ref": "benchmark/results/X04.json",
       "evaluation_policy": {
         "allow_extra_columns": true,
         "allow_column_permutation": true,
@@ -5345,9 +5345,9 @@
       "legacy_scenario_zh": "联合查询 A",
       "legacy_difficulty": "难",
       "change_type": "修订",
-      "schema_ref": "schemas/simplified_v1.json",
-      "schema_markdown_ref": "schemas/simplified_v1.md",
-      "knowledge_ref": "knowledge/benchmark_v2.md",
+      "schema_ref": "benchmark/schemas/simplified_v1.json",
+      "schema_markdown_ref": "benchmark/schemas/simplified_v1.md",
+      "knowledge_ref": "benchmark/knowledge/benchmark_v2.md",
       "execution_status": "ok",
       "result_mode": "full_rows",
       "result_columns": [
@@ -5355,7 +5355,7 @@
         "half_total_hour"
       ],
       "result_row_count": 5,
-      "result_ref": "results/X05.json",
+      "result_ref": "benchmark/results/X05.json",
       "evaluation_policy": {
         "allow_extra_columns": true,
         "allow_column_permutation": true,
@@ -5445,9 +5445,9 @@
       "legacy_scenario_zh": "联合查询 A",
       "legacy_difficulty": "难",
       "change_type": "修订",
-      "schema_ref": "schemas/simplified_v1.json",
-      "schema_markdown_ref": "schemas/simplified_v1.md",
-      "knowledge_ref": "knowledge/benchmark_v2.md",
+      "schema_ref": "benchmark/schemas/simplified_v1.json",
+      "schema_markdown_ref": "benchmark/schemas/simplified_v1.md",
+      "knowledge_ref": "benchmark/knowledge/benchmark_v2.md",
       "execution_status": "ok",
       "result_mode": "full_rows",
       "result_columns": [
@@ -5457,7 +5457,7 @@
         "difference_pct"
       ],
       "result_row_count": 1,
-      "result_ref": "results/X06.json",
+      "result_ref": "benchmark/results/X06.json",
       "evaluation_policy": {
         "allow_extra_columns": true,
         "allow_column_permutation": true,
@@ -5568,9 +5568,9 @@
       "legacy_scenario_zh": "联合查询 A",
       "legacy_difficulty": "难",
       "change_type": "修订",
-      "schema_ref": "schemas/simplified_v1.json",
-      "schema_markdown_ref": "schemas/simplified_v1.md",
-      "knowledge_ref": "knowledge/benchmark_v2.md",
+      "schema_ref": "benchmark/schemas/simplified_v1.json",
+      "schema_markdown_ref": "benchmark/schemas/simplified_v1.md",
+      "knowledge_ref": "benchmark/knowledge/benchmark_v2.md",
       "execution_status": "ok",
       "result_mode": "full_rows",
       "result_columns": [
@@ -5580,7 +5580,7 @@
         "bus_increase"
       ],
       "result_row_count": 8,
-      "result_ref": "results/X07.json",
+      "result_ref": "benchmark/results/X07.json",
       "evaluation_policy": {
         "allow_extra_columns": true,
         "allow_column_permutation": true,
@@ -5687,9 +5687,9 @@
       "legacy_scenario_zh": "联合查询 A",
       "legacy_difficulty": "难",
       "change_type": "修订",
-      "schema_ref": "schemas/simplified_v1.json",
-      "schema_markdown_ref": "schemas/simplified_v1.md",
-      "knowledge_ref": "knowledge/benchmark_v2.md",
+      "schema_ref": "benchmark/schemas/simplified_v1.json",
+      "schema_markdown_ref": "benchmark/schemas/simplified_v1.md",
+      "knowledge_ref": "benchmark/knowledge/benchmark_v2.md",
       "execution_status": "ok",
       "result_mode": "full_rows",
       "result_columns": [
@@ -5699,7 +5699,7 @@
         "bike_change"
       ],
       "result_row_count": 5,
-      "result_ref": "results/X08.json",
+      "result_ref": "benchmark/results/X08.json",
       "evaluation_policy": {
         "allow_extra_columns": true,
         "allow_column_permutation": true,
@@ -5806,9 +5806,9 @@
       "legacy_scenario_zh": "联合查询 A",
       "legacy_difficulty": "难",
       "change_type": "修订",
-      "schema_ref": "schemas/simplified_v1.json",
-      "schema_markdown_ref": "schemas/simplified_v1.md",
-      "knowledge_ref": "knowledge/benchmark_v2.md",
+      "schema_ref": "benchmark/schemas/simplified_v1.json",
+      "schema_markdown_ref": "benchmark/schemas/simplified_v1.md",
+      "knowledge_ref": "benchmark/knowledge/benchmark_v2.md",
       "execution_status": "ok",
       "result_mode": "full_rows",
       "result_columns": [
@@ -5816,7 +5816,7 @@
         "grid_count"
       ],
       "result_row_count": 3,
-      "result_ref": "results/X09.json",
+      "result_ref": "benchmark/results/X09.json",
       "evaluation_policy": {
         "allow_extra_columns": true,
         "allow_column_permutation": true,
@@ -5899,9 +5899,9 @@
       "legacy_scenario_zh": "联合查询 A",
       "legacy_difficulty": "难",
       "change_type": "修订",
-      "schema_ref": "schemas/simplified_v1.json",
-      "schema_markdown_ref": "schemas/simplified_v1.md",
-      "knowledge_ref": "knowledge/benchmark_v2.md",
+      "schema_ref": "benchmark/schemas/simplified_v1.json",
+      "schema_markdown_ref": "benchmark/schemas/simplified_v1.md",
+      "knowledge_ref": "benchmark/knowledge/benchmark_v2.md",
       "execution_status": "ok",
       "result_mode": "full_rows",
       "result_columns": [
@@ -5912,7 +5912,7 @@
         "jaccard"
       ],
       "result_row_count": 3,
-      "result_ref": "results/X10.json",
+      "result_ref": "benchmark/results/X10.json",
       "evaluation_policy": {
         "allow_extra_columns": true,
         "allow_column_permutation": true,
@@ -6046,9 +6046,9 @@
       "legacy_scenario_zh": "联合查询 A",
       "legacy_difficulty": "难",
       "change_type": "修订",
-      "schema_ref": "schemas/simplified_v1.json",
-      "schema_markdown_ref": "schemas/simplified_v1.md",
-      "knowledge_ref": "knowledge/benchmark_v2.md",
+      "schema_ref": "benchmark/schemas/simplified_v1.json",
+      "schema_markdown_ref": "benchmark/schemas/simplified_v1.md",
+      "knowledge_ref": "benchmark/knowledge/benchmark_v2.md",
       "execution_status": "ok",
       "result_mode": "full_rows",
       "result_columns": [
@@ -6058,7 +6058,7 @@
         "ridehail_dropoffs"
       ],
       "result_row_count": 20,
-      "result_ref": "results/X11.json",
+      "result_ref": "benchmark/results/X11.json",
       "evaluation_policy": {
         "allow_extra_columns": true,
         "allow_column_permutation": true,
@@ -6169,9 +6169,9 @@
       "legacy_scenario_zh": "联合查询 A",
       "legacy_difficulty": "难",
       "change_type": "修订",
-      "schema_ref": "schemas/simplified_v1.json",
-      "schema_markdown_ref": "schemas/simplified_v1.md",
-      "knowledge_ref": "knowledge/benchmark_v2.md",
+      "schema_ref": "benchmark/schemas/simplified_v1.json",
+      "schema_markdown_ref": "benchmark/schemas/simplified_v1.md",
+      "knowledge_ref": "benchmark/knowledge/benchmark_v2.md",
       "execution_status": "ok",
       "result_mode": "full_rows",
       "result_columns": [
@@ -6182,7 +6182,7 @@
         "all_three_grids"
       ],
       "result_row_count": 448,
-      "result_ref": "results/X12.json",
+      "result_ref": "benchmark/results/X12.json",
       "evaluation_policy": {
         "allow_extra_columns": true,
         "allow_column_permutation": true,
@@ -6301,9 +6301,9 @@
       "legacy_scenario_zh": "联合查询 A",
       "legacy_difficulty": "难",
       "change_type": "修订",
-      "schema_ref": "schemas/simplified_v1.json",
-      "schema_markdown_ref": "schemas/simplified_v1.md",
-      "knowledge_ref": "knowledge/benchmark_v2.md",
+      "schema_ref": "benchmark/schemas/simplified_v1.json",
+      "schema_markdown_ref": "benchmark/schemas/simplified_v1.md",
+      "knowledge_ref": "benchmark/knowledge/benchmark_v2.md",
       "execution_status": "ok",
       "result_mode": "full_rows",
       "result_columns": [
@@ -6314,7 +6314,7 @@
         "ridehail_rank"
       ],
       "result_row_count": 9,
-      "result_ref": "results/X13.json",
+      "result_ref": "benchmark/results/X13.json",
       "evaluation_policy": {
         "allow_extra_columns": true,
         "allow_column_permutation": true,
@@ -6438,9 +6438,9 @@
       "legacy_scenario_zh": "联合查询 A",
       "legacy_difficulty": "难",
       "change_type": "修订",
-      "schema_ref": "schemas/simplified_v1.json",
-      "schema_markdown_ref": "schemas/simplified_v1.md",
-      "knowledge_ref": "knowledge/benchmark_v2.md",
+      "schema_ref": "benchmark/schemas/simplified_v1.json",
+      "schema_markdown_ref": "benchmark/schemas/simplified_v1.md",
+      "knowledge_ref": "benchmark/knowledge/benchmark_v2.md",
       "execution_status": "ok",
       "result_mode": "full_rows",
       "result_columns": [
@@ -6449,7 +6449,7 @@
         "bike_rank"
       ],
       "result_row_count": 20,
-      "result_ref": "results/X14.json",
+      "result_ref": "benchmark/results/X14.json",
       "evaluation_policy": {
         "allow_extra_columns": true,
         "allow_column_permutation": true,
@@ -6549,9 +6549,9 @@
       "legacy_scenario_zh": "联合查询 A",
       "legacy_difficulty": "难",
       "change_type": "修订",
-      "schema_ref": "schemas/simplified_v1.json",
-      "schema_markdown_ref": "schemas/simplified_v1.md",
-      "knowledge_ref": "knowledge/benchmark_v2.md",
+      "schema_ref": "benchmark/schemas/simplified_v1.json",
+      "schema_markdown_ref": "benchmark/schemas/simplified_v1.md",
+      "knowledge_ref": "benchmark/knowledge/benchmark_v2.md",
       "execution_status": "ok",
       "result_mode": "full_rows",
       "result_columns": [
@@ -6564,7 +6564,7 @@
         "bike_rank"
       ],
       "result_row_count": 2,
-      "result_ref": "results/X15.json",
+      "result_ref": "benchmark/results/X15.json",
       "evaluation_policy": {
         "allow_extra_columns": true,
         "allow_column_permutation": true,
@@ -6712,9 +6712,9 @@
       "legacy_scenario_zh": "联合查询 A",
       "legacy_difficulty": "难",
       "change_type": "修订",
-      "schema_ref": "schemas/simplified_v1.json",
-      "schema_markdown_ref": "schemas/simplified_v1.md",
-      "knowledge_ref": "knowledge/benchmark_v2.md",
+      "schema_ref": "benchmark/schemas/simplified_v1.json",
+      "schema_markdown_ref": "benchmark/schemas/simplified_v1.md",
+      "knowledge_ref": "benchmark/knowledge/benchmark_v2.md",
       "execution_status": "ok",
       "result_mode": "full_rows",
       "result_columns": [
@@ -6726,7 +6726,7 @@
         "rank_difference"
       ],
       "result_row_count": 10,
-      "result_ref": "results/X16.json",
+      "result_ref": "benchmark/results/X16.json",
       "evaluation_policy": {
         "allow_extra_columns": true,
         "allow_column_permutation": true,
@@ -6783,7 +6783,7 @@
           }
         ],
         "topk_tie_compatibility": {
-          "eligible_rows_ref": "results/topk_eligible/X16.json"
+          "eligible_rows_ref": "benchmark/results/topk_eligible/X16.json"
         }
       },
       "review_status": "pending_two_person_review",
@@ -6864,9 +6864,9 @@
       "legacy_scenario_zh": "联合查询 A",
       "legacy_difficulty": "难",
       "change_type": "修订",
-      "schema_ref": "schemas/simplified_v1.json",
-      "schema_markdown_ref": "schemas/simplified_v1.md",
-      "knowledge_ref": "knowledge/benchmark_v2.md",
+      "schema_ref": "benchmark/schemas/simplified_v1.json",
+      "schema_markdown_ref": "benchmark/schemas/simplified_v1.md",
+      "knowledge_ref": "benchmark/knowledge/benchmark_v2.md",
       "execution_status": "ok",
       "result_mode": "full_rows",
       "result_columns": [
@@ -6877,7 +6877,7 @@
         "bike_rank"
       ],
       "result_row_count": 20,
-      "result_ref": "results/X17.json",
+      "result_ref": "benchmark/results/X17.json",
       "evaluation_policy": {
         "allow_extra_columns": true,
         "allow_column_permutation": true,
@@ -7009,9 +7009,9 @@
       "legacy_scenario_zh": "联合查询 A",
       "legacy_difficulty": "难",
       "change_type": "修订",
-      "schema_ref": "schemas/simplified_v1.json",
-      "schema_markdown_ref": "schemas/simplified_v1.md",
-      "knowledge_ref": "knowledge/benchmark_v2.md",
+      "schema_ref": "benchmark/schemas/simplified_v1.json",
+      "schema_markdown_ref": "benchmark/schemas/simplified_v1.md",
+      "knowledge_ref": "benchmark/knowledge/benchmark_v2.md",
       "execution_status": "ok",
       "result_mode": "full_rows",
       "result_columns": [
@@ -7021,7 +7021,7 @@
         "jaccard"
       ],
       "result_row_count": 2,
-      "result_ref": "results/X18.json",
+      "result_ref": "benchmark/results/X18.json",
       "evaluation_policy": {
         "allow_extra_columns": true,
         "allow_column_permutation": true,
@@ -7138,9 +7138,9 @@
       "legacy_scenario_zh": "联合查询 A",
       "legacy_difficulty": "难",
       "change_type": "修订",
-      "schema_ref": "schemas/simplified_v1.json",
-      "schema_markdown_ref": "schemas/simplified_v1.md",
-      "knowledge_ref": "knowledge/benchmark_v2.md",
+      "schema_ref": "benchmark/schemas/simplified_v1.json",
+      "schema_markdown_ref": "benchmark/schemas/simplified_v1.md",
+      "knowledge_ref": "benchmark/knowledge/benchmark_v2.md",
       "execution_status": "ok",
       "result_mode": "full_rows",
       "result_columns": [
@@ -7148,7 +7148,7 @@
         "grid_count"
       ],
       "result_row_count": 2,
-      "result_ref": "results/X19.json",
+      "result_ref": "benchmark/results/X19.json",
       "evaluation_policy": {
         "allow_extra_columns": true,
         "allow_column_permutation": true,
@@ -7235,9 +7235,9 @@
       "legacy_scenario_zh": "联合查询 A",
       "legacy_difficulty": "难",
       "change_type": "修订",
-      "schema_ref": "schemas/simplified_v1.json",
-      "schema_markdown_ref": "schemas/simplified_v1.md",
-      "knowledge_ref": "knowledge/benchmark_v2.md",
+      "schema_ref": "benchmark/schemas/simplified_v1.json",
+      "schema_markdown_ref": "benchmark/schemas/simplified_v1.md",
+      "knowledge_ref": "benchmark/knowledge/benchmark_v2.md",
       "execution_status": "ok",
       "result_mode": "full_rows",
       "result_columns": [
@@ -7248,7 +7248,7 @@
         "ridehail_rank"
       ],
       "result_row_count": 4,
-      "result_ref": "results/X20.json",
+      "result_ref": "benchmark/results/X20.json",
       "evaluation_policy": {
         "allow_extra_columns": true,
         "allow_column_permutation": true,
@@ -7372,9 +7372,9 @@
       "legacy_scenario_zh": "联合查询 A",
       "legacy_difficulty": "难",
       "change_type": "修订",
-      "schema_ref": "schemas/simplified_v1.json",
-      "schema_markdown_ref": "schemas/simplified_v1.md",
-      "knowledge_ref": "knowledge/benchmark_v2.md",
+      "schema_ref": "benchmark/schemas/simplified_v1.json",
+      "schema_markdown_ref": "benchmark/schemas/simplified_v1.md",
+      "knowledge_ref": "benchmark/knowledge/benchmark_v2.md",
       "execution_status": "ok",
       "result_mode": "full_rows",
       "result_columns": [
@@ -7387,7 +7387,7 @@
         "bike_9"
       ],
       "result_row_count": 112,
-      "result_ref": "results/X21.json",
+      "result_ref": "benchmark/results/X21.json",
       "evaluation_policy": {
         "allow_extra_columns": true,
         "allow_column_permutation": true,
@@ -7530,9 +7530,9 @@
       "legacy_scenario_zh": "联合查询 A",
       "legacy_difficulty": "难",
       "change_type": "修订",
-      "schema_ref": "schemas/simplified_v1.json",
-      "schema_markdown_ref": "schemas/simplified_v1.md",
-      "knowledge_ref": "knowledge/benchmark_v2.md",
+      "schema_ref": "benchmark/schemas/simplified_v1.json",
+      "schema_markdown_ref": "benchmark/schemas/simplified_v1.md",
+      "knowledge_ref": "benchmark/knowledge/benchmark_v2.md",
       "execution_status": "ok",
       "result_mode": "full_rows",
       "result_columns": [
@@ -7543,7 +7543,7 @@
         "qualifying_grids_in_hour"
       ],
       "result_row_count": 7,
-      "result_ref": "results/X22.json",
+      "result_ref": "benchmark/results/X22.json",
       "evaluation_policy": {
         "allow_extra_columns": true,
         "allow_column_permutation": true,
@@ -7676,9 +7676,9 @@
       "legacy_scenario_zh": "联合查询 A",
       "legacy_difficulty": "难",
       "change_type": "修订",
-      "schema_ref": "schemas/simplified_v1.json",
-      "schema_markdown_ref": "schemas/simplified_v1.md",
-      "knowledge_ref": "knowledge/benchmark_v2.md",
+      "schema_ref": "benchmark/schemas/simplified_v1.json",
+      "schema_markdown_ref": "benchmark/schemas/simplified_v1.md",
+      "knowledge_ref": "benchmark/knowledge/benchmark_v2.md",
       "execution_status": "ok",
       "result_mode": "full_rows",
       "result_columns": [
@@ -7689,7 +7689,7 @@
         "ratio_difference"
       ],
       "result_row_count": 10,
-      "result_ref": "results/X23.json",
+      "result_ref": "benchmark/results/X23.json",
       "evaluation_policy": {
         "allow_extra_columns": true,
         "allow_column_permutation": true,
@@ -7815,9 +7815,9 @@
       "legacy_scenario_zh": "联合查询 A",
       "legacy_difficulty": "难",
       "change_type": "修订",
-      "schema_ref": "schemas/simplified_v1.json",
-      "schema_markdown_ref": "schemas/simplified_v1.md",
-      "knowledge_ref": "knowledge/benchmark_v2.md",
+      "schema_ref": "benchmark/schemas/simplified_v1.json",
+      "schema_markdown_ref": "benchmark/schemas/simplified_v1.md",
+      "knowledge_ref": "benchmark/knowledge/benchmark_v2.md",
       "execution_status": "ok",
       "result_mode": "full_rows",
       "result_columns": [
@@ -7828,7 +7828,7 @@
         "average_bike_concentration"
       ],
       "result_row_count": 4,
-      "result_ref": "results/X24.json",
+      "result_ref": "benchmark/results/X24.json",
       "evaluation_policy": {
         "allow_extra_columns": true,
         "allow_column_permutation": true,
@@ -7955,9 +7955,9 @@
       "legacy_scenario_zh": null,
       "legacy_difficulty": null,
       "change_type": "新增",
-      "schema_ref": "schemas/simplified_v1.json",
-      "schema_markdown_ref": "schemas/simplified_v1.md",
-      "knowledge_ref": "knowledge/benchmark_v2.md",
+      "schema_ref": "benchmark/schemas/simplified_v1.json",
+      "schema_markdown_ref": "benchmark/schemas/simplified_v1.md",
+      "knowledge_ref": "benchmark/knowledge/benchmark_v2.md",
       "execution_status": "ok",
       "result_mode": "full_rows",
       "result_columns": [
@@ -7966,7 +7966,7 @@
         "bus_to_metro_ratio"
       ],
       "result_row_count": 1,
-      "result_ref": "results/X25.json",
+      "result_ref": "benchmark/results/X25.json",
       "evaluation_policy": {
         "allow_extra_columns": true,
         "allow_column_permutation": true,
@@ -8062,9 +8062,9 @@
       "legacy_scenario_zh": null,
       "legacy_difficulty": null,
       "change_type": "新增",
-      "schema_ref": "schemas/simplified_v1.json",
-      "schema_markdown_ref": "schemas/simplified_v1.md",
-      "knowledge_ref": "knowledge/benchmark_v2.md",
+      "schema_ref": "benchmark/schemas/simplified_v1.json",
+      "schema_markdown_ref": "benchmark/schemas/simplified_v1.md",
+      "knowledge_ref": "benchmark/knowledge/benchmark_v2.md",
       "execution_status": "ok",
       "result_mode": "full_rows",
       "result_columns": [
@@ -8074,7 +8074,7 @@
         "bike_locks"
       ],
       "result_row_count": 24,
-      "result_ref": "results/X26.json",
+      "result_ref": "benchmark/results/X26.json",
       "evaluation_policy": {
         "allow_extra_columns": true,
         "allow_column_permutation": true,
@@ -8181,9 +8181,9 @@
       "legacy_scenario_zh": null,
       "legacy_difficulty": null,
       "change_type": "新增",
-      "schema_ref": "schemas/simplified_v1.json",
-      "schema_markdown_ref": "schemas/simplified_v1.md",
-      "knowledge_ref": "knowledge/benchmark_v2.md",
+      "schema_ref": "benchmark/schemas/simplified_v1.json",
+      "schema_markdown_ref": "benchmark/schemas/simplified_v1.md",
+      "knowledge_ref": "benchmark/knowledge/benchmark_v2.md",
       "execution_status": "ok",
       "result_mode": "full_rows",
       "result_columns": [
@@ -8194,7 +8194,7 @@
         "bus_pct"
       ],
       "result_row_count": 3,
-      "result_ref": "results/X27.json",
+      "result_ref": "benchmark/results/X27.json",
       "evaluation_policy": {
         "allow_extra_columns": true,
         "allow_column_permutation": true,
@@ -8316,9 +8316,9 @@
       "legacy_scenario_zh": null,
       "legacy_difficulty": null,
       "change_type": "新增",
-      "schema_ref": "schemas/simplified_v1.json",
-      "schema_markdown_ref": "schemas/simplified_v1.md",
-      "knowledge_ref": "knowledge/benchmark_v2.md",
+      "schema_ref": "benchmark/schemas/simplified_v1.json",
+      "schema_markdown_ref": "benchmark/schemas/simplified_v1.md",
+      "knowledge_ref": "benchmark/knowledge/benchmark_v2.md",
       "execution_status": "ok",
       "result_mode": "full_rows",
       "result_columns": [
@@ -8328,7 +8328,7 @@
         "difference"
       ],
       "result_row_count": 10,
-      "result_ref": "results/X28.json",
+      "result_ref": "benchmark/results/X28.json",
       "evaluation_policy": {
         "allow_extra_columns": true,
         "allow_column_permutation": true,
@@ -8371,7 +8371,7 @@
           }
         ],
         "topk_tie_compatibility": {
-          "eligible_rows_ref": "results/topk_eligible/X28.json"
+          "eligible_rows_ref": "benchmark/results/topk_eligible/X28.json"
         }
       },
       "review_status": "pending_two_person_review",
@@ -8446,9 +8446,9 @@
       "legacy_scenario_zh": null,
       "legacy_difficulty": null,
       "change_type": "新增",
-      "schema_ref": "schemas/simplified_v1.json",
-      "schema_markdown_ref": "schemas/simplified_v1.md",
-      "knowledge_ref": "knowledge/benchmark_v2.md",
+      "schema_ref": "benchmark/schemas/simplified_v1.json",
+      "schema_markdown_ref": "benchmark/schemas/simplified_v1.md",
+      "knowledge_ref": "benchmark/knowledge/benchmark_v2.md",
       "execution_status": "ok",
       "result_mode": "full_rows",
       "result_columns": [
@@ -8459,7 +8459,7 @@
         "combined_total"
       ],
       "result_row_count": 10,
-      "result_ref": "results/X29.json",
+      "result_ref": "benchmark/results/X29.json",
       "evaluation_policy": {
         "allow_extra_columns": true,
         "allow_column_permutation": true,
@@ -8509,7 +8509,7 @@
           }
         ],
         "topk_tie_compatibility": {
-          "eligible_rows_ref": "results/topk_eligible/X29.json"
+          "eligible_rows_ref": "benchmark/results/topk_eligible/X29.json"
         }
       },
       "review_status": "pending_two_person_review",
@@ -8585,9 +8585,9 @@
       "legacy_scenario_zh": null,
       "legacy_difficulty": null,
       "change_type": "新增",
-      "schema_ref": "schemas/simplified_v1.json",
-      "schema_markdown_ref": "schemas/simplified_v1.md",
-      "knowledge_ref": "knowledge/benchmark_v2.md",
+      "schema_ref": "benchmark/schemas/simplified_v1.json",
+      "schema_markdown_ref": "benchmark/schemas/simplified_v1.md",
+      "knowledge_ref": "benchmark/knowledge/benchmark_v2.md",
       "execution_status": "ok",
       "result_mode": "full_rows",
       "result_columns": [
@@ -8596,7 +8596,7 @@
         "evening_total"
       ],
       "result_row_count": 5,
-      "result_ref": "results/X30.json",
+      "result_ref": "benchmark/results/X30.json",
       "evaluation_policy": {
         "allow_extra_columns": true,
         "allow_column_permutation": true,
@@ -8698,9 +8698,9 @@
       "legacy_scenario_zh": "联合查询 A",
       "legacy_difficulty": "难",
       "change_type": "修订",
-      "schema_ref": "schemas/simplified_v1.json",
-      "schema_markdown_ref": "schemas/simplified_v1.md",
-      "knowledge_ref": "knowledge/benchmark_v2.md",
+      "schema_ref": "benchmark/schemas/simplified_v1.json",
+      "schema_markdown_ref": "benchmark/schemas/simplified_v1.md",
+      "knowledge_ref": "benchmark/knowledge/benchmark_v2.md",
       "execution_status": "ok",
       "result_mode": "full_rows",
       "result_columns": [
@@ -8713,7 +8713,7 @@
         "rank_difference"
       ],
       "result_row_count": 10,
-      "result_ref": "results/G01.json",
+      "result_ref": "benchmark/results/G01.json",
       "evaluation_policy": {
         "allow_extra_columns": true,
         "allow_column_permutation": true,
@@ -8860,9 +8860,9 @@
       "legacy_scenario_zh": "联合查询 B",
       "legacy_difficulty": "难",
       "change_type": "修订",
-      "schema_ref": "schemas/simplified_v1.json",
-      "schema_markdown_ref": "schemas/simplified_v1.md",
-      "knowledge_ref": "knowledge/benchmark_v2.md",
+      "schema_ref": "benchmark/schemas/simplified_v1.json",
+      "schema_markdown_ref": "benchmark/schemas/simplified_v1.md",
+      "knowledge_ref": "benchmark/knowledge/benchmark_v2.md",
       "execution_status": "ok",
       "result_mode": "full_rows",
       "result_columns": [
@@ -8873,7 +8873,7 @@
         "bike_locks"
       ],
       "result_row_count": 48,
-      "result_ref": "results/G02.json",
+      "result_ref": "benchmark/results/G02.json",
       "evaluation_policy": {
         "allow_extra_columns": true,
         "allow_column_permutation": true,
@@ -8997,9 +8997,9 @@
       "legacy_scenario_zh": "联合查询 B",
       "legacy_difficulty": "难",
       "change_type": "修订",
-      "schema_ref": "schemas/simplified_v1.json",
-      "schema_markdown_ref": "schemas/simplified_v1.md",
-      "knowledge_ref": "knowledge/benchmark_v2.md",
+      "schema_ref": "benchmark/schemas/simplified_v1.json",
+      "schema_markdown_ref": "benchmark/schemas/simplified_v1.md",
+      "knowledge_ref": "benchmark/knowledge/benchmark_v2.md",
       "execution_status": "ok",
       "result_mode": "full_rows",
       "result_columns": [
@@ -9007,7 +9007,7 @@
         "station_count"
       ],
       "result_row_count": 2,
-      "result_ref": "results/G03.json",
+      "result_ref": "benchmark/results/G03.json",
       "evaluation_policy": {
         "allow_extra_columns": true,
         "allow_column_permutation": true,
@@ -9094,9 +9094,9 @@
       "legacy_scenario_zh": "联合查询 B",
       "legacy_difficulty": "难",
       "change_type": "修订",
-      "schema_ref": "schemas/simplified_v1.json",
-      "schema_markdown_ref": "schemas/simplified_v1.md",
-      "knowledge_ref": "knowledge/benchmark_v2.md",
+      "schema_ref": "benchmark/schemas/simplified_v1.json",
+      "schema_markdown_ref": "benchmark/schemas/simplified_v1.md",
+      "knowledge_ref": "benchmark/knowledge/benchmark_v2.md",
       "execution_status": "ok",
       "result_mode": "full_rows",
       "result_columns": [
@@ -9109,7 +9109,7 @@
         "ridehail_increase"
       ],
       "result_row_count": 10,
-      "result_ref": "results/G04.json",
+      "result_ref": "benchmark/results/G04.json",
       "evaluation_policy": {
         "allow_extra_columns": true,
         "allow_column_permutation": true,
@@ -9256,9 +9256,9 @@
       "legacy_scenario_zh": "联合查询 B",
       "legacy_difficulty": "难",
       "change_type": "修订",
-      "schema_ref": "schemas/simplified_v1.json",
-      "schema_markdown_ref": "schemas/simplified_v1.md",
-      "knowledge_ref": "knowledge/benchmark_v2.md",
+      "schema_ref": "benchmark/schemas/simplified_v1.json",
+      "schema_markdown_ref": "benchmark/schemas/simplified_v1.md",
+      "knowledge_ref": "benchmark/knowledge/benchmark_v2.md",
       "execution_status": "ok",
       "result_mode": "full_rows",
       "result_columns": [
@@ -9268,7 +9268,7 @@
         "covered_pct"
       ],
       "result_row_count": 3,
-      "result_ref": "results/G05.json",
+      "result_ref": "benchmark/results/G05.json",
       "evaluation_policy": {
         "allow_extra_columns": true,
         "allow_column_permutation": true,
@@ -9382,9 +9382,9 @@
       "legacy_scenario_zh": "联合查询 B",
       "legacy_difficulty": "难",
       "change_type": "修订",
-      "schema_ref": "schemas/simplified_v1.json",
-      "schema_markdown_ref": "schemas/simplified_v1.md",
-      "knowledge_ref": "knowledge/benchmark_v2.md",
+      "schema_ref": "benchmark/schemas/simplified_v1.json",
+      "schema_markdown_ref": "benchmark/schemas/simplified_v1.md",
+      "knowledge_ref": "benchmark/knowledge/benchmark_v2.md",
       "execution_status": "ok",
       "result_mode": "full_rows",
       "result_columns": [
@@ -9395,7 +9395,7 @@
         "morning_pct"
       ],
       "result_row_count": 4,
-      "result_ref": "results/G06.json",
+      "result_ref": "benchmark/results/G06.json",
       "evaluation_policy": {
         "allow_extra_columns": true,
         "allow_column_permutation": true,
@@ -9524,9 +9524,9 @@
       "legacy_scenario_zh": "联合查询 B",
       "legacy_difficulty": "难",
       "change_type": "修订",
-      "schema_ref": "schemas/simplified_v1.json",
-      "schema_markdown_ref": "schemas/simplified_v1.md",
-      "knowledge_ref": "knowledge/benchmark_v2.md",
+      "schema_ref": "benchmark/schemas/simplified_v1.json",
+      "schema_markdown_ref": "benchmark/schemas/simplified_v1.md",
+      "knowledge_ref": "benchmark/knowledge/benchmark_v2.md",
       "execution_status": "ok",
       "result_mode": "full_rows",
       "result_columns": [
@@ -9536,7 +9536,7 @@
         "evening_ridehail"
       ],
       "result_row_count": 142,
-      "result_ref": "results/G07.json",
+      "result_ref": "benchmark/results/G07.json",
       "evaluation_policy": {
         "allow_extra_columns": true,
         "allow_column_permutation": true,
@@ -9644,9 +9644,9 @@
       "legacy_scenario_zh": "联合查询 B",
       "legacy_difficulty": "难",
       "change_type": "修订",
-      "schema_ref": "schemas/simplified_v1.json",
-      "schema_markdown_ref": "schemas/simplified_v1.md",
-      "knowledge_ref": "knowledge/benchmark_v2.md",
+      "schema_ref": "benchmark/schemas/simplified_v1.json",
+      "schema_markdown_ref": "benchmark/schemas/simplified_v1.md",
+      "knowledge_ref": "benchmark/knowledge/benchmark_v2.md",
       "execution_status": "ok",
       "result_mode": "full_rows",
       "result_columns": [
@@ -9656,7 +9656,7 @@
         "evening_bike"
       ],
       "result_row_count": 3,
-      "result_ref": "results/G08.json",
+      "result_ref": "benchmark/results/G08.json",
       "evaluation_policy": {
         "allow_extra_columns": true,
         "allow_column_permutation": true,
@@ -9768,9 +9768,9 @@
       "legacy_scenario_zh": "联合查询 B",
       "legacy_difficulty": "难",
       "change_type": "修订",
-      "schema_ref": "schemas/simplified_v1.json",
-      "schema_markdown_ref": "schemas/simplified_v1.md",
-      "knowledge_ref": "knowledge/benchmark_v2.md",
+      "schema_ref": "benchmark/schemas/simplified_v1.json",
+      "schema_markdown_ref": "benchmark/schemas/simplified_v1.md",
+      "knowledge_ref": "benchmark/knowledge/benchmark_v2.md",
       "execution_status": "ok",
       "result_mode": "full_rows",
       "result_columns": [
@@ -9784,7 +9784,7 @@
         "metro_observed_hours"
       ],
       "result_row_count": 4296,
-      "result_ref": "results/G09.json",
+      "result_ref": "benchmark/results/G09.json",
       "evaluation_policy": {
         "allow_extra_columns": true,
         "allow_column_permutation": true,
@@ -9939,9 +9939,9 @@
       "legacy_scenario_zh": "联合查询 B",
       "legacy_difficulty": "难",
       "change_type": "修订",
-      "schema_ref": "schemas/simplified_v1.json",
-      "schema_markdown_ref": "schemas/simplified_v1.md",
-      "knowledge_ref": "knowledge/benchmark_v2.md",
+      "schema_ref": "benchmark/schemas/simplified_v1.json",
+      "schema_markdown_ref": "benchmark/schemas/simplified_v1.md",
+      "knowledge_ref": "benchmark/knowledge/benchmark_v2.md",
       "execution_status": "ok",
       "result_mode": "full_rows",
       "result_columns": [
@@ -9951,7 +9951,7 @@
         "daily_bus_total"
       ],
       "result_row_count": 522,
-      "result_ref": "results/G10.json",
+      "result_ref": "benchmark/results/G10.json",
       "evaluation_policy": {
         "allow_extra_columns": true,
         "allow_column_permutation": true,
@@ -10058,9 +10058,9 @@
       "legacy_scenario_zh": "联合查询 B",
       "legacy_difficulty": "难",
       "change_type": "修订",
-      "schema_ref": "schemas/simplified_v1.json",
-      "schema_markdown_ref": "schemas/simplified_v1.md",
-      "knowledge_ref": "knowledge/benchmark_v2.md",
+      "schema_ref": "benchmark/schemas/simplified_v1.json",
+      "schema_markdown_ref": "benchmark/schemas/simplified_v1.md",
+      "knowledge_ref": "benchmark/knowledge/benchmark_v2.md",
       "execution_status": "ok",
       "result_mode": "full_rows",
       "result_columns": [
@@ -10071,7 +10071,7 @@
         "increase"
       ],
       "result_row_count": 11,
-      "result_ref": "results/G11.json",
+      "result_ref": "benchmark/results/G11.json",
       "evaluation_policy": {
         "allow_extra_columns": true,
         "allow_column_permutation": true,
@@ -10190,9 +10190,9 @@
       "legacy_scenario_zh": "联合查询 B",
       "legacy_difficulty": "难",
       "change_type": "修订",
-      "schema_ref": "schemas/simplified_v1.json",
-      "schema_markdown_ref": "schemas/simplified_v1.md",
-      "knowledge_ref": "knowledge/benchmark_v2.md",
+      "schema_ref": "benchmark/schemas/simplified_v1.json",
+      "schema_markdown_ref": "benchmark/schemas/simplified_v1.md",
+      "knowledge_ref": "benchmark/knowledge/benchmark_v2.md",
       "execution_status": "ok",
       "result_mode": "full_rows",
       "result_columns": [
@@ -10203,7 +10203,7 @@
         "metro_entry_total"
       ],
       "result_row_count": 416,
-      "result_ref": "results/G12.json",
+      "result_ref": "benchmark/results/G12.json",
       "evaluation_policy": {
         "allow_extra_columns": true,
         "allow_column_permutation": true,
@@ -10323,9 +10323,9 @@
       "legacy_scenario_zh": "联合查询 B",
       "legacy_difficulty": "难",
       "change_type": "修订",
-      "schema_ref": "schemas/simplified_v1.json",
-      "schema_markdown_ref": "schemas/simplified_v1.md",
-      "knowledge_ref": "knowledge/benchmark_v2.md",
+      "schema_ref": "benchmark/schemas/simplified_v1.json",
+      "schema_markdown_ref": "benchmark/schemas/simplified_v1.md",
+      "knowledge_ref": "benchmark/knowledge/benchmark_v2.md",
       "execution_status": "ok",
       "result_mode": "full_rows",
       "result_columns": [
@@ -10335,7 +10335,7 @@
         "selected_pct"
       ],
       "result_row_count": 3,
-      "result_ref": "results/G13.json",
+      "result_ref": "benchmark/results/G13.json",
       "evaluation_policy": {
         "allow_extra_columns": true,
         "allow_column_permutation": true,
@@ -10453,9 +10453,9 @@
       "legacy_scenario_zh": "联合查询 B",
       "legacy_difficulty": "难",
       "change_type": "修订",
-      "schema_ref": "schemas/simplified_v1.json",
-      "schema_markdown_ref": "schemas/simplified_v1.md",
-      "knowledge_ref": "knowledge/benchmark_v2.md",
+      "schema_ref": "benchmark/schemas/simplified_v1.json",
+      "schema_markdown_ref": "benchmark/schemas/simplified_v1.md",
+      "knowledge_ref": "benchmark/knowledge/benchmark_v2.md",
       "execution_status": "ok",
       "result_mode": "full_rows",
       "result_columns": [
@@ -10467,7 +10467,7 @@
         "bike_rank"
       ],
       "result_row_count": 19,
-      "result_ref": "results/G14.json",
+      "result_ref": "benchmark/results/G14.json",
       "evaluation_policy": {
         "allow_extra_columns": true,
         "allow_column_permutation": true,
@@ -10598,9 +10598,9 @@
       "legacy_scenario_zh": "联合查询 B",
       "legacy_difficulty": "难",
       "change_type": "修订",
-      "schema_ref": "schemas/simplified_v1.json",
-      "schema_markdown_ref": "schemas/simplified_v1.md",
-      "knowledge_ref": "knowledge/benchmark_v2.md",
+      "schema_ref": "benchmark/schemas/simplified_v1.json",
+      "schema_markdown_ref": "benchmark/schemas/simplified_v1.md",
+      "knowledge_ref": "benchmark/knowledge/benchmark_v2.md",
       "execution_status": "ok",
       "result_mode": "full_rows",
       "result_columns": [
@@ -10611,7 +10611,7 @@
         "distance_difference"
       ],
       "result_row_count": 10,
-      "result_ref": "results/G15.json",
+      "result_ref": "benchmark/results/G15.json",
       "evaluation_policy": {
         "allow_extra_columns": true,
         "allow_column_permutation": true,
@@ -10741,9 +10741,9 @@
       "legacy_scenario_zh": "联合查询 B",
       "legacy_difficulty": "难",
       "change_type": "修订",
-      "schema_ref": "schemas/simplified_v1.json",
-      "schema_markdown_ref": "schemas/simplified_v1.md",
-      "knowledge_ref": "knowledge/benchmark_v2.md",
+      "schema_ref": "benchmark/schemas/simplified_v1.json",
+      "schema_markdown_ref": "benchmark/schemas/simplified_v1.md",
+      "knowledge_ref": "benchmark/knowledge/benchmark_v2.md",
       "execution_status": "ok",
       "result_mode": "full_rows",
       "result_columns": [
@@ -10754,7 +10754,7 @@
         "taxi_window"
       ],
       "result_row_count": 102,
-      "result_ref": "results/G16.json",
+      "result_ref": "benchmark/results/G16.json",
       "evaluation_policy": {
         "allow_extra_columns": true,
         "allow_column_permutation": true,
@@ -10873,9 +10873,9 @@
       "legacy_scenario_zh": "联合查询 B",
       "legacy_difficulty": "难",
       "change_type": "修订",
-      "schema_ref": "schemas/simplified_v1.json",
-      "schema_markdown_ref": "schemas/simplified_v1.md",
-      "knowledge_ref": "knowledge/benchmark_v2.md",
+      "schema_ref": "benchmark/schemas/simplified_v1.json",
+      "schema_markdown_ref": "benchmark/schemas/simplified_v1.md",
+      "knowledge_ref": "benchmark/knowledge/benchmark_v2.md",
       "execution_status": "ok",
       "result_mode": "full_rows",
       "result_columns": [
@@ -10887,7 +10887,7 @@
         "neighbor_entry_total"
       ],
       "result_row_count": 416,
-      "result_ref": "results/G17.json",
+      "result_ref": "benchmark/results/G17.json",
       "evaluation_policy": {
         "allow_extra_columns": true,
         "allow_column_permutation": true,
@@ -11023,9 +11023,9 @@
       "legacy_scenario_zh": "联合查询 B",
       "legacy_difficulty": "难",
       "change_type": "修订",
-      "schema_ref": "schemas/simplified_v1.json",
-      "schema_markdown_ref": "schemas/simplified_v1.md",
-      "knowledge_ref": "knowledge/benchmark_v2.md",
+      "schema_ref": "benchmark/schemas/simplified_v1.json",
+      "schema_markdown_ref": "benchmark/schemas/simplified_v1.md",
+      "knowledge_ref": "benchmark/knowledge/benchmark_v2.md",
       "execution_status": "ok",
       "result_mode": "full_rows",
       "result_columns": [
@@ -11039,7 +11039,7 @@
         "exit_difference"
       ],
       "result_row_count": 10,
-      "result_ref": "results/G18.json",
+      "result_ref": "benchmark/results/G18.json",
       "evaluation_policy": {
         "allow_extra_columns": true,
         "allow_column_permutation": true,
@@ -11200,9 +11200,9 @@
       "legacy_scenario_zh": "联合查询 B",
       "legacy_difficulty": "难",
       "change_type": "修订",
-      "schema_ref": "schemas/simplified_v1.json",
-      "schema_markdown_ref": "schemas/simplified_v1.md",
-      "knowledge_ref": "knowledge/benchmark_v2.md",
+      "schema_ref": "benchmark/schemas/simplified_v1.json",
+      "schema_markdown_ref": "benchmark/schemas/simplified_v1.md",
+      "knowledge_ref": "benchmark/knowledge/benchmark_v2.md",
       "execution_status": "ok",
       "result_mode": "full_rows",
       "result_columns": [
@@ -11215,7 +11215,7 @@
         "observed_hours"
       ],
       "result_row_count": 3622,
-      "result_ref": "results/G19.json",
+      "result_ref": "benchmark/results/G19.json",
       "evaluation_policy": {
         "allow_extra_columns": true,
         "allow_column_permutation": true,
@@ -11359,9 +11359,9 @@
       "legacy_scenario_zh": "联合查询 B",
       "legacy_difficulty": "难",
       "change_type": "修订",
-      "schema_ref": "schemas/simplified_v1.json",
-      "schema_markdown_ref": "schemas/simplified_v1.md",
-      "knowledge_ref": "knowledge/benchmark_v2.md",
+      "schema_ref": "benchmark/schemas/simplified_v1.json",
+      "schema_markdown_ref": "benchmark/schemas/simplified_v1.md",
+      "knowledge_ref": "benchmark/knowledge/benchmark_v2.md",
       "execution_status": "ok",
       "result_mode": "full_rows",
       "result_columns": [
@@ -11374,7 +11374,7 @@
         "metro_observed_hours"
       ],
       "result_row_count": 2,
-      "result_ref": "results/G20.json",
+      "result_ref": "benchmark/results/G20.json",
       "evaluation_policy": {
         "allow_extra_columns": true,
         "allow_column_permutation": true,
@@ -11517,9 +11517,9 @@
       "legacy_scenario_zh": "联合查询 B",
       "legacy_difficulty": "难",
       "change_type": "修订",
-      "schema_ref": "schemas/simplified_v1.json",
-      "schema_markdown_ref": "schemas/simplified_v1.md",
-      "knowledge_ref": "knowledge/benchmark_v2.md",
+      "schema_ref": "benchmark/schemas/simplified_v1.json",
+      "schema_markdown_ref": "benchmark/schemas/simplified_v1.md",
+      "knowledge_ref": "benchmark/knowledge/benchmark_v2.md",
       "execution_status": "ok",
       "result_mode": "full_rows",
       "result_columns": [
@@ -11530,7 +11530,7 @@
         "bike_pct"
       ],
       "result_row_count": 4,
-      "result_ref": "results/G21.json",
+      "result_ref": "benchmark/results/G21.json",
       "evaluation_policy": {
         "allow_extra_columns": true,
         "allow_column_permutation": true,
@@ -11658,9 +11658,9 @@
       "legacy_scenario_zh": "联合查询 B",
       "legacy_difficulty": "难",
       "change_type": "修订",
-      "schema_ref": "schemas/simplified_v1.json",
-      "schema_markdown_ref": "schemas/simplified_v1.md",
-      "knowledge_ref": "knowledge/benchmark_v2.md",
+      "schema_ref": "benchmark/schemas/simplified_v1.json",
+      "schema_markdown_ref": "benchmark/schemas/simplified_v1.md",
+      "knowledge_ref": "benchmark/knowledge/benchmark_v2.md",
       "execution_status": "ok",
       "result_mode": "full_rows",
       "result_columns": [
@@ -11672,7 +11672,7 @@
         "ridehail_added_pct"
       ],
       "result_row_count": 1,
-      "result_ref": "results/G22.json",
+      "result_ref": "benchmark/results/G22.json",
       "evaluation_policy": {
         "allow_extra_columns": true,
         "allow_column_permutation": true,
@@ -11806,9 +11806,9 @@
       "legacy_scenario_zh": "联合查询 B",
       "legacy_difficulty": "难",
       "change_type": "修订",
-      "schema_ref": "schemas/simplified_v1.json",
-      "schema_markdown_ref": "schemas/simplified_v1.md",
-      "knowledge_ref": "knowledge/benchmark_v2.md",
+      "schema_ref": "benchmark/schemas/simplified_v1.json",
+      "schema_markdown_ref": "benchmark/schemas/simplified_v1.md",
+      "knowledge_ref": "benchmark/knowledge/benchmark_v2.md",
       "execution_status": "ok",
       "result_mode": "full_rows",
       "result_columns": [
@@ -11820,7 +11820,7 @@
         "morning_ridehail"
       ],
       "result_row_count": 10,
-      "result_ref": "results/G23.json",
+      "result_ref": "benchmark/results/G23.json",
       "evaluation_policy": {
         "allow_extra_columns": true,
         "allow_column_permutation": true,
@@ -11956,9 +11956,9 @@
       "legacy_scenario_zh": "联合查询 B",
       "legacy_difficulty": "难",
       "change_type": "修订",
-      "schema_ref": "schemas/simplified_v1.json",
-      "schema_markdown_ref": "schemas/simplified_v1.md",
-      "knowledge_ref": "knowledge/benchmark_v2.md",
+      "schema_ref": "benchmark/schemas/simplified_v1.json",
+      "schema_markdown_ref": "benchmark/schemas/simplified_v1.md",
+      "knowledge_ref": "benchmark/knowledge/benchmark_v2.md",
       "execution_status": "ok",
       "result_mode": "full_rows",
       "result_columns": [
@@ -11970,7 +11970,7 @@
         "repeated_pct"
       ],
       "result_row_count": 19,
-      "result_ref": "results/G24.json",
+      "result_ref": "benchmark/results/G24.json",
       "evaluation_policy": {
         "allow_extra_columns": true,
         "allow_column_permutation": true,
@@ -12103,9 +12103,9 @@
       "legacy_scenario_zh": "联合查询 B",
       "legacy_difficulty": "难",
       "change_type": "修订",
-      "schema_ref": "schemas/simplified_v1.json",
-      "schema_markdown_ref": "schemas/simplified_v1.md",
-      "knowledge_ref": "knowledge/benchmark_v2.md",
+      "schema_ref": "benchmark/schemas/simplified_v1.json",
+      "schema_markdown_ref": "benchmark/schemas/simplified_v1.md",
+      "knowledge_ref": "benchmark/knowledge/benchmark_v2.md",
       "execution_status": "ok",
       "result_mode": "full_rows",
       "result_columns": [
@@ -12118,7 +12118,7 @@
         "near_rank"
       ],
       "result_row_count": 416,
-      "result_ref": "results/G25.json",
+      "result_ref": "benchmark/results/G25.json",
       "evaluation_policy": {
         "allow_extra_columns": true,
         "allow_column_permutation": true,
@@ -12267,9 +12267,9 @@
       "legacy_scenario_zh": "联合查询 B",
       "legacy_difficulty": "难",
       "change_type": "修订",
-      "schema_ref": "schemas/simplified_v1.json",
-      "schema_markdown_ref": "schemas/simplified_v1.md",
-      "knowledge_ref": "knowledge/benchmark_v2.md",
+      "schema_ref": "benchmark/schemas/simplified_v1.json",
+      "schema_markdown_ref": "benchmark/schemas/simplified_v1.md",
+      "knowledge_ref": "benchmark/knowledge/benchmark_v2.md",
       "execution_status": "ok",
       "result_mode": "full_rows",
       "result_columns": [
@@ -12280,7 +12280,7 @@
         "evening_ridehail"
       ],
       "result_row_count": 1248,
-      "result_ref": "results/G26.json",
+      "result_ref": "benchmark/results/G26.json",
       "evaluation_policy": {
         "allow_extra_columns": true,
         "allow_column_permutation": true,
@@ -12406,9 +12406,9 @@
       "legacy_scenario_zh": null,
       "legacy_difficulty": null,
       "change_type": "新增",
-      "schema_ref": "schemas/simplified_v1.json",
-      "schema_markdown_ref": "schemas/simplified_v1.md",
-      "knowledge_ref": "knowledge/benchmark_v2.md",
+      "schema_ref": "benchmark/schemas/simplified_v1.json",
+      "schema_markdown_ref": "benchmark/schemas/simplified_v1.md",
+      "knowledge_ref": "benchmark/knowledge/benchmark_v2.md",
       "execution_status": "ok",
       "result_mode": "full_rows",
       "result_columns": [
@@ -12417,7 +12417,7 @@
         "grid_count"
       ],
       "result_row_count": 416,
-      "result_ref": "results/G27.json",
+      "result_ref": "benchmark/results/G27.json",
       "evaluation_policy": {
         "allow_extra_columns": true,
         "allow_column_permutation": true,
@@ -12512,9 +12512,9 @@
       "legacy_scenario_zh": null,
       "legacy_difficulty": null,
       "change_type": "新增",
-      "schema_ref": "schemas/simplified_v1.json",
-      "schema_markdown_ref": "schemas/simplified_v1.md",
-      "knowledge_ref": "knowledge/benchmark_v2.md",
+      "schema_ref": "benchmark/schemas/simplified_v1.json",
+      "schema_markdown_ref": "benchmark/schemas/simplified_v1.md",
+      "knowledge_ref": "benchmark/knowledge/benchmark_v2.md",
       "execution_status": "ok",
       "result_mode": "full_rows",
       "result_columns": [
@@ -12522,7 +12522,7 @@
         "distance_m"
       ],
       "result_row_count": 40,
-      "result_ref": "results/G28.json",
+      "result_ref": "benchmark/results/G28.json",
       "evaluation_policy": {
         "allow_extra_columns": true,
         "allow_column_permutation": true,
@@ -12606,9 +12606,9 @@
       "legacy_scenario_zh": null,
       "legacy_difficulty": null,
       "change_type": "新增",
-      "schema_ref": "schemas/simplified_v1.json",
-      "schema_markdown_ref": "schemas/simplified_v1.md",
-      "knowledge_ref": "knowledge/benchmark_v2.md",
+      "schema_ref": "benchmark/schemas/simplified_v1.json",
+      "schema_markdown_ref": "benchmark/schemas/simplified_v1.md",
+      "knowledge_ref": "benchmark/knowledge/benchmark_v2.md",
       "execution_status": "ok",
       "result_mode": "full_rows",
       "result_columns": [
@@ -12618,7 +12618,7 @@
         "observed_grids"
       ],
       "result_row_count": 416,
-      "result_ref": "results/G29.json",
+      "result_ref": "benchmark/results/G29.json",
       "evaluation_policy": {
         "allow_extra_columns": true,
         "allow_column_permutation": true,
@@ -12725,9 +12725,9 @@
       "legacy_scenario_zh": null,
       "legacy_difficulty": null,
       "change_type": "新增",
-      "schema_ref": "schemas/simplified_v1.json",
-      "schema_markdown_ref": "schemas/simplified_v1.md",
-      "knowledge_ref": "knowledge/benchmark_v2.md",
+      "schema_ref": "benchmark/schemas/simplified_v1.json",
+      "schema_markdown_ref": "benchmark/schemas/simplified_v1.md",
+      "knowledge_ref": "benchmark/knowledge/benchmark_v2.md",
       "execution_status": "ok",
       "result_mode": "full_rows",
       "result_columns": [
@@ -12738,7 +12738,7 @@
         "distance_m"
       ],
       "result_row_count": 806,
-      "result_ref": "results/G30.json",
+      "result_ref": "benchmark/results/G30.json",
       "evaluation_policy": {
         "allow_extra_columns": true,
         "allow_column_permutation": true,

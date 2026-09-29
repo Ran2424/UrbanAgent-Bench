@@ -1,10 +1,10 @@
 # 精简评测数据库 simplified_v1
 
-数据库文件：`database_files/shanghai_text2sql_simplified_v1.db`
+数据库文件：`benchmark/database_files/shanghai_text2sql_simplified_v1.db`
 
 用途：仅用于 Text-to-SQL 评测。数据库不保留来源追踪、采集过程、旧系统兼容字段和映射状态。
 
-完整 DDL 见 `schemas/simplified_v1.sql`。
+完整 DDL 见 `benchmark/schemas/simplified_v1.sql`。
 
 ## 全局规则
 

@@ -6,8 +6,8 @@
   "primary_language": "zh",
   "database_count": 1,
   "task_count": 100,
-  "tasks_ref": "tasks/tasks.jsonl",
-  "database_ref": "metadata/database.json",
+  "tasks_ref": "benchmark/tasks/tasks.jsonl",
+  "database_ref": "benchmark/metadata/database.json",
   "evaluation_ref": "docs/EVALUATION.md",
   "release_status": "candidate_pending_two_person_review",
   "archived_open_source_data_ref": "archive/open_source_sql"
