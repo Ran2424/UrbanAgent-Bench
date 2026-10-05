@@ -1,8 +1,8 @@
 {
   "benchmark/tasks/tasks.jsonl": "e6723f821e369d95f5646b8e57c3fedf40934f8cbd828de63a09c95261513d3c",
   "benchmark/tasks/tasks.csv": "007a096fbd8d2b9bfa03154306dcc6b89cfdcdab5846502a89797e20b0255350",
-  "benchmark/题库.md": "734baf41fe51e1a49681c8fff754050ade47e94ebc02aeafbd32d7db22a48c69",
-  "benchmark/knowledge/benchmark_v2.md": "def9fc2dc94318526e3108820e3dab43ecd192c4fee3820a69f7224796276335",
+  "benchmark/题库.md": "60fd44ada56a6b83c30264c52a21791929bc492a6fe20b83ade809e24e9233b1",
+  "benchmark/knowledge/benchmark_v2.md": "539242fa89ade69510aaa08e13b534bd514f12ff1d32963802f5742912c47fe1",
   "benchmark/database_files/shanghai_text2sql_simplified_v1.db": "f7ca83427740711cc54993085a2797dabdd17d4ce758b5305d11e4434c5aacdf",
   "benchmark/database_files/archives/shanghai_multimodal__20260824.7z": "403a0891e398d3c859fcdb38430ef8d7994b4fbb7c87f36cc1e4f1f152a25518",
   "benchmark/sql/S01.sql": "fc4fafe75c28164acce9342ef78f20e970dd860a220283f095bccf4ba80d833e",

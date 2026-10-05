@@ -1,6 +1,6 @@
 # 四模型系统比较数据
 
-本目录与 v9 论文的当前结果口径一致，包含 DeepSeek V4 Flash、Qwen3.8 27B、MiniMax-M3 和 GLM-5.3-Flash 在 Text2SQL 与 TransportX Agent 两种方式下的 800 条题目级记录。
+本目录包含 DeepSeek V4 Flash、Qwen3.8 27B、MiniMax-M3 和 GLM-5.3-Flash 在 Text2SQL 与 TransportX Agent 两种方式下的 800 条题目级记录。
 
 ## 文件
 

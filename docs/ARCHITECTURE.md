@@ -4,7 +4,7 @@
 
 UrbanAgent-Bench 围绕一个上海多方式交通数据库组织 100 道交通业务分析任务。每道任务同时固化业务问题、计算条件、结果契约、参考查询和参考结果，支持按最终分析结果评分。
 
-当前项目只有一个评测主体，不再区分两个 track。原公开 Text-to-SQL 数据只作为历史归档保存。
+当前评测主体为上海多方式交通数据与 100 道业务任务。原公开 Text-to-SQL 数据保存在 `archive/open_source_sql/`。
 
 ## 活跃内容
 
@@ -26,4 +26,4 @@ UrbanAgent-Bench 围绕一个上海多方式交通数据库组织 100 道交通�
 
 ## 归档内容
 
-`archive/open_source_sql/` 保留原双轨版本中的 Spider 和 BIRD 交通相关数据、schema、题目和修订记录。`archive/legacy_baselines/` 保留早期三模型增量结果。两类归档均不参与当前版本校验和主指标计算。
+`archive/open_source_sql/` 保留 Spider 和 BIRD 交通相关数据、schema、题目和修订记录；发布校验只核对其题目数和数据库数。`archive/legacy_baselines/` 保留早期三模型增量结果。两类归档均不参与当前评测的评分和主指标计算。

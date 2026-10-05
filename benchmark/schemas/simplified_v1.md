@@ -79,7 +79,7 @@
 ## 发布校验
 
 ```bash
-/Users/ran/WorkSpace/SoftWare/miniconda3/envs/research/bin/python3.10 scripts/validate_release.py
+python3.10 scripts/validate_release.py
 ```
 
 当前数据库 SHA-256：`f7ca83427740711cc54993085a2797dabdd17d4ce758b5305d11e4434c5aacdf`。

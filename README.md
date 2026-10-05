@@ -57,10 +57,10 @@ git lfs pull
 7z x benchmark/database_files/archives/shanghai_multimodal__20260824.7z -obenchmark/database_files
 ```
 
-执行发布校验：
+使用 Python 3.10 执行发布校验：
 
 ```bash
-/Users/ran/WorkSpace/SoftWare/miniconda3/envs/research/bin/python3.10 scripts/validate_release.py
+python3.10 scripts/validate_release.py
 ```
 
 校验项包括 100 道题的编号、分类、输出契约、参考 SQL、参考结果、数据库压缩包和基线记录。

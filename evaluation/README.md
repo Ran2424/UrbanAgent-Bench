@@ -1,9 +1,9 @@
 # 评测入口
 
-当前发布校验使用：
+使用 Python 3.10 执行发布校验：
 
 ```bash
-/Users/ran/WorkSpace/SoftWare/miniconda3/envs/research/bin/python3.10 scripts/validate_release.py
+python3.10 scripts/validate_release.py
 ```
 
 模型评测实现需遵守 [`docs/EVALUATION.md`](../docs/EVALUATION.md)，并保存以下信息：
